@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BEM.Entity.EntityBase
+namespace BEM.Console.Classes
 {
-    public interface IEntity
+    class IslemNo
     {
     }
 }

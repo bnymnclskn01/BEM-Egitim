@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace BEM.Entity.Model
 {
-    public class About : BasicEntity
+    public class About : BasicEntity,IEntity
     {
         public About()
         {

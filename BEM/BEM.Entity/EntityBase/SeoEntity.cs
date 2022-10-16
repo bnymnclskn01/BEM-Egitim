@@ -8,21 +8,21 @@ namespace BEM.Entity.EntityBase
 {
     public class SeoEntity :BasicEntity
     {
-        public string seoTitle { get; set; } 
-        public string seoKeywords { get; set; }
-        public string seoDescription { get; set; }
-        public string seoAuthor { get; set; }
-        public string seoCopyright { get; set; }
-        public string seoDesign { get; set; }
-        public string seoReply { get; set; }
-        public string seoSubject { get; set; }
-        public string seoTwitterTitle { get; set; }
-        public string seoTwitterKeywords { get; set; }
-        public string seoTwitterDescription { get; set; }
-        public string seoTwitterUrl { get; set; }
-        public string seoFacebookTitle { get; set; }
-        public string seoFacebookKeywrods { get; set; }
-        public string seoFacebookDescription { get; set; }
-        public string seoFacebookUrl { get; set; }
+        public string seoTitle { get; set; } // Sayfa Başlık
+        public string seoKeywords { get; set; } // Sayfa Anahtar Kelime
+        public string seoDescription { get; set; } // Sayfa Açıklaması
+        public string seoAuthor { get; set; } // Site Yazarı
+        public string seoCopyright { get; set; } // Lisans Yazısı
+        public string seoDesign { get; set; } // Site Tasarımsıcısı
+        public string seoReply { get; set; } // firma web sitesi
+        public string seoSubject { get; set; }  // Site Konusu
+        public string seoTwitterTitle { get; set; } // seo Twitter Başlık
+        public string seoTwitterKeywords { get; set; } // Seo Twitter Anahtar Kelimeler
+        public string seoTwitterDescription { get; set; } // seo Twitter Açıklaması
+        public string seoTwitterUrl { get; set; } // Twitter Adresiniz
+        public string seoFacebookTitle { get; set; } // Facebook Adres Başlğı
+        public string seoFacebookKeywrods { get; set; } // Facebook Anahtar Kelime
+        public string seoFacebookDescription { get; set; } // Facebook Açıklama
+        public string seoFacebookUrl { get; set; } // Facebook URL
     }
 }
