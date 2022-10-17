@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace BEM.Console.Interface
 {
-    interface IIslemler
+    public interface IIslemler
     {
+        void islemGoster();
+        double tutarGetir();
     }
 }
