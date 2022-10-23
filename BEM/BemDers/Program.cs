@@ -1,4 +1,5 @@
 ﻿using BemDers.Class;
+using BemDers.Interface.Abstract;
 using System;
 
 namespace BemDers
@@ -160,10 +161,34 @@ namespace BemDers
             //} while (Secim == true);
             #endregion
             #region Örnek 10
-            Koltuk koltuk = new Koltuk();
-            Masa masa = new Masa();
-            masa.OzellikYaz();
-            koltuk.OzellikYaz();
+            //Koltuk koltuk = new Koltuk();
+            //Masa masa = new Masa();
+            //masa.OzellikYaz();
+            //koltuk.OzellikYaz();
+            //Console.Title = "Bilişim Eğitim Merkezi Otomasyon Sistemi";
+            //ActionMetod actionMetod = new ActionMetod();
+            //char secim;
+            //Console.WriteLine("Lütfen Seçim Yapınız \n1- Müşteri Ekleme\n2- Araç Ekleme");
+            //secim = char.Parse(Console.ReadLine());
+            //switch (secim)
+            //{
+            //    case '1':
+            //        actionMetod.MusteriEkle();
+            //        break;
+            //    case '2':
+            //        actionMetod.AracEkle();
+            //        break;
+            //    default:
+            //        break;
+            //}
+            #endregion
+            #region Örnek 11
+            ActionNumber actionNumber = new ActionNumber("0000001", "23/10/2022", 250.50);
+            ActionNumber actionNumber2 = new ActionNumber("0000002", "23/10/2022", 255.50);
+            ActionNumber actionNumber3 = new ActionNumber("0000003", "23/10/2022", 260.50);
+            actionNumber.ActionView();
+            actionNumber2.ActionView();
+            actionNumber3.ActionView();
             #endregion
             Console.ReadKey();
         }  
