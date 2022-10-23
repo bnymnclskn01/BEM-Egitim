@@ -1,0 +1,16 @@
+C:\Users\ever_\OneDrive\Belgeler\GitHub\BEM-Egitim\BEM\BemDers\bin\Debug\net5.0\BemDers.exe
+C:\Users\ever_\OneDrive\Belgeler\GitHub\BEM-Egitim\BEM\BemDers\bin\Debug\net5.0\BemDers.deps.json
+C:\Users\ever_\OneDrive\Belgeler\GitHub\BEM-Egitim\BEM\BemDers\bin\Debug\net5.0\BemDers.runtimeconfig.json
+C:\Users\ever_\OneDrive\Belgeler\GitHub\BEM-Egitim\BEM\BemDers\bin\Debug\net5.0\BemDers.runtimeconfig.dev.json
+C:\Users\ever_\OneDrive\Belgeler\GitHub\BEM-Egitim\BEM\BemDers\bin\Debug\net5.0\BemDers.dll
+C:\Users\ever_\OneDrive\Belgeler\GitHub\BEM-Egitim\BEM\BemDers\bin\Debug\net5.0\ref\BemDers.dll
+C:\Users\ever_\OneDrive\Belgeler\GitHub\BEM-Egitim\BEM\BemDers\bin\Debug\net5.0\BemDers.pdb
+C:\Users\ever_\OneDrive\Belgeler\GitHub\BEM-Egitim\BEM\BemDers\obj\Debug\net5.0\BemDers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ever_\OneDrive\Belgeler\GitHub\BEM-Egitim\BEM\BemDers\obj\Debug\net5.0\BemDers.AssemblyInfoInputs.cache
+C:\Users\ever_\OneDrive\Belgeler\GitHub\BEM-Egitim\BEM\BemDers\obj\Debug\net5.0\BemDers.AssemblyInfo.cs
+C:\Users\ever_\OneDrive\Belgeler\GitHub\BEM-Egitim\BEM\BemDers\obj\Debug\net5.0\BemDers.csproj.CoreCompileInputs.cache
+C:\Users\ever_\OneDrive\Belgeler\GitHub\BEM-Egitim\BEM\BemDers\obj\Debug\net5.0\BemDers.dll
+C:\Users\ever_\OneDrive\Belgeler\GitHub\BEM-Egitim\BEM\BemDers\obj\Debug\net5.0\ref\BemDers.dll
+C:\Users\ever_\OneDrive\Belgeler\GitHub\BEM-Egitim\BEM\BemDers\obj\Debug\net5.0\BemDers.pdb
+C:\Users\ever_\OneDrive\Belgeler\GitHub\BEM-Egitim\BEM\BemDers\obj\Debug\net5.0\BemDers.genruntimeconfig.cache
+C:\Users\ever_\OneDrive\Belgeler\GitHub\BEM-Egitim\BEM\BemDers\obj\Debug\net5.0\BemDers.csproj.AssemblyReference.cache
