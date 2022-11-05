@@ -1,0 +1,14 @@
+Dosyayı Açmak
+Python'da dosya açmak için open() fonksiyonunu kullanırız. Bu fonksiyonun iki parametresi vardır. Biri dosya adı, diğeri ise dosya modudur.
+
+Dört farklı dosya modu vardır. Bunlar;
+
+"r" - Okuma, varsayılan değerdir, dosyayı okumak için açar. Dosya yoksa hata verir.
+"a" - Ekleme, dosyayı veri eklemek için açar, dosya yoksa yeni bir tane oluşturur.
+"w" - Yazma, dosyayı yazmak için açar, dosya yoksa yeni bir tane oluşturur.
+"x" - Oluşturma, zaten bir dosya varsa hata verir.
+Ayrıca dosyayı metin ya da ikili değerde açmaya yarayan anahtarlar da bulunur.
+
+"t" - Yazı (text), varsayılan değerdir.
+"b" - İkili (binary), resim gibi dosyaları ikili açmak gerekebilir.
+open() fonksiyonu aşağıdaki şekilde kullanılır:

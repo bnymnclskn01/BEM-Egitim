@@ -1,0 +1,11 @@
+İşletme Raporunun Tutulması.
+Kaç Kişi Geldi (Sayı)
+Kaç işlem başarılı oldu
+Kaç işlem başarısız oldu
+Kaç işlem yapıldı.
+Başarılı ve Başarısız işlerin
+Yüzde Hesaplaması.
+
+Adı Soyadı     | İşlem Türü | Şehir
+Haşmet Tazegül   Başarılı     İstanbul
+Rüzgar Tekeli    Başarısız    İstanbul      
