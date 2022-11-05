@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>E-Commerce</title>
+	<style type="text/css">
+		
+	</style>
+</head>
+<body>
+	<input type="button" onclick="arttir()" value="+">
+	<input type="text" id="sonuc" value="0">
+	<input type="button" onclick="azalt()" value="-">
+
+<script type="text/javascript">
+	function arttir(){
+		var sonuc=document.getElementById("sonuc");
+		sonuc.value=Number(sonuc.value)+1;
+	}	function azalt(){
+		var sonuc=document.getElementById("sonuc");
+		sonuc.value=Number(sonuc.value)-1;
+	}
+</script>
+</body>
+</html>

@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Javascript</title>
+</head>
+<body>
+<p>Bitiş Sayısı : </p> <input type="text" id="Sayi1">
+<br/>
+<input type="button" value="Hesapla" onclick="asalHesaplama()">
+<br/>
+<p id="demo"></p>
+<script type="text/javascript">
+	function asalHesaplama() {
+		var sayac=0;
+		sayi=document.getElementById('Sayi1').value;
+		for (var i = 2; i<sayi; i++) 
+		{
+			if (sayi%i==0) {
+				sayac++;
+			}
+	    }
+	    if (sayac==0) {
+	    	text="Asal";
+	    }
+	    else
+	    {
+	    	text="Asal Değil. <br/> 1 ve Kendisi Hariç <strong>"+sayac+"</strong> adet böleni var";
+	    }
+	    document.getElementById('demo').innerHTML=text;
+	}
+</script>
+</body>
+</html>

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Form</title>
+</head>
+<body>
+<form accept="#" method="post">
+<input type="text" id="yazi" value="">
+<input type="button" id="kaydet" value="Değer Ekle">	
+</form>
+<select id="deger">
+	
+</select>
+<script type="text/javascript">
+var yazi=document.getElementById("yazi");
+var kaydet=document.getElementById("kaydet");
+var deger=document.getElementById("deger");
+ 
+kaydet.onclick=function(e){
+var yeniOpt=document.createElement("option");
+yeniOpt.value=yazi.value;
+yeniOpt.innerHTML=yazi.value;
+deger.add(yeniOpt);
+}
+</script>
+</body>
+</html>
