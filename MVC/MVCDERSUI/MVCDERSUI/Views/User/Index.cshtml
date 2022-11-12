@@ -1,0 +1,35 @@
+﻿@model IEnumerable<MVCDERSUI.Models.Entity.UserMember>
+@{
+    ViewData["Title"] = "Kullanıcı Listele";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="container-fliud">
+    <div class="row">
+        <table>
+            <tr>
+                <th>Adı Soyadı</th>
+                <th>E-posta</th>
+                <th>Şifre</th>
+                <th>Statü</th>
+                <th></th>
+            </tr>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.NameSurname</td>
+                    <td>@item.Email</td>
+                    <td>@item.Password</td>
+                    @if (item.Status == true)
+                    {
+                        <td>Aktif</td>
+                    }
+                    else{<td>Pasif</td>}
+                    <td>
+                        <a href="/User/Edit/@item.ID" class="btn btn-primary">Güncelle</a>
+                        <a href="/User/Delete/@item.ID" class="btn btn-danger">Sil</a>
+                    </td>
+                </tr>
+            }
+        </table>
+    </div>
+</div>

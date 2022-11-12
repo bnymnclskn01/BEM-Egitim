@@ -1,0 +1,35 @@
+﻿@model MVCDERSUI.Models.Entity.UserMember
+@{
+    ViewData["Title"] = "Yeni Kullanıcı Ekle";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-12">
+            <div class="form-group">
+                <form action="/User/Create" method="post">
+                    <div class="form-group">
+                        <label>Adı Soyadı</label>
+                        <input type="text" name="NameSurname" class="form-control" placeholder="Lütfen Adınızı Giriniz" />
+                    </div>
+                    <div class="form-group">
+                        <label>E-posta</label>
+                        <input type="email" name="Email" class="form-control" placeholder="Lütfen E-posta Giriniz" />
+                    </div>
+                    <div class="form-group">
+                        <label>Şifre</label>
+                        <input type="password" name="Password" class="form-control" placeholder="Lütfen Şifre Giriniz" />
+                    </div>
+                    <div class="form-group">
+                        <label>Kullanıcı Notu</label>
+                        <input type="text" name="UserNote" class="form-control" placeholder="Lütfen Kullanıcı Notu Giriniz" />
+                    </div>
+                    <div class="form-group">
+                        <button type="submit" class="btn btn-success">Yeni Kayıt Ekle</button>
+                        <a href="/User/Index" class="btn btn-dark">Kullanıcı Listele</a>
+                    </div>
+                 </form>
+            </div>
+        </div>
+    </div>
+</div>
