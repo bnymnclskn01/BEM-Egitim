@@ -11,6 +11,9 @@
                 <th>E-posta</th>
                 <th>Şifre</th>
                 <th>Statü</th>
+                <th>Kullanıcı Notu</th>
+                <th>Eklenen Tarih</th>
+                <th>Güncel Tarih</th>
                 <th></th>
             </tr>
             @foreach (var item in Model)
@@ -24,9 +27,12 @@
                         <td>Aktif</td>
                     }
                     else{<td>Pasif</td>}
+                    <td>@item.UserNote</td>
+                    <td>@item.CreateDate.ToShortDateString()</td>
+                    <td>@item.LastDate.ToShortDateString()</td>
                     <td>
                         <a href="/User/Edit/@item.ID" class="btn btn-primary">Güncelle</a>
-                        <a href="/User/Delete/@item.ID" class="btn btn-danger">Sil</a>
+                        <a href="/User/Delete/@item.ID" class="btn btn-danger" onclick="return confirm('Veriyi silmek istediğinize emin misiniz?')">Sil</a>
                     </td>
                 </tr>
             }
