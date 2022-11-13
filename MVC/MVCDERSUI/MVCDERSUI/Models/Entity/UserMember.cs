@@ -12,10 +12,12 @@ namespace MVCDERSUI.Models.Entity
             this.Email = "";
             this.Password = "";
             this.UserNote = "";
+            this.PhoneNumber = "";
         }
         public string NameSurname { get; set; }
         public string Email { get; set; }
         public string Password { get; set; }
         public string UserNote { get; set; }
+        public string PhoneNumber { get; set; }
     }
 }

@@ -53,6 +53,7 @@ namespace MVCDERSUI.Controllers
                 data.Email = userMember.Email;
                 data.Password = userMember.Password;
                 data.UserNote = userMember.UserNote;
+                data.PhoneNumber = userMember.PhoneNumber;
                 context.UserMembers.Update(data);
                 context.SaveChanges();
                 return RedirectToAction("Index");

@@ -25,7 +25,11 @@
                         <input type="text" name="UserNote" value="@Model.UserNote" class="form-control" placeholder="Lütfen Kullanıcı Notu Giriniz" />
                     </div>
                     <div class="form-group">
-                        <button type="submit" class="btn btn-success">Yeni Kayıt Ekle</button>
+                        <label>Telefon Numarası</label>
+                        <input type="tel" maxlength="11" value="@Model.PhoneNumber" name="PhoneNumber" class="form-control" placeholder="Lütfen Telefon Numarası Giriniz" />
+                    </div>
+                    <div class="form-group">
+                        <button type="submit" class="btn btn-primary">Yeni Kayıt Güncelle</button>
                         <a href="/User/Index" class="btn btn-dark">Kullanıcı Listele</a>
                     </div>
                 </form>
