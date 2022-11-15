@@ -37,8 +37,8 @@ db.commit()
 guncelle=imlec.execute('Update Personel Set Address=?, NameSurname=? Where ID=?',('Ankara','Ahmet Rüzgar Tekeli',1))
 db.commit()
 print(str(guncelle)+" Kayıt güncellendi")"""
-sonuc=imlec.execute('Delete from Personel Where Address=?',('Ankara',))
-db.commit()
+"""sonuc=imlec.execute('Delete from Personel Where Address=?',('Ankara',))
+db.commit()"""
 imlec.execute('Select * From Personel')
 personel=imlec.fetchall()
 for i in personel:
