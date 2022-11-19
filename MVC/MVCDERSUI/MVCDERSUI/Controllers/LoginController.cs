@@ -22,7 +22,7 @@ namespace MVCDERSUI.Controllers
                 HttpContext.Session.SetString("Email", data.FirstOrDefault().Email);
                 var url = "/User/Index/";
                 Response.Redirect(url);
-                return View();
+                return RedirectToAction("Index","User");
             }
             else
             {
