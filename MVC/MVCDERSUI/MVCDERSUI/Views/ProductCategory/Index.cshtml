@@ -1,0 +1,45 @@
+﻿@model IEnumerable<MVCDERSUI.Models.Entity.ProductCategory>
+@{
+    ViewData["Title"] = "Ürün Kategori Listele";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="row">
+    <div class="col-lg-12">
+        <a href="/admin/urun-kategori-ekle" class="btn btn-outline-success">Yeni Ürün Kategori Ekle</a>
+        <a href="/admin/urun-ekle" class="btn btn-outline-success">Yeni Ürün Ekle</a>
+        <a href="/admin/urun-listele" class="btn btn-outline-info">Ürün Listele</a>
+    </div>
+    <div class="col-lg-12">
+        <table>
+            <thead>
+                <tr>
+                    <th>Ürün Katori Sırası</th>
+                    <th>Ürün Kategori Adı </th>
+                    <th>Statü</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.Rank</td>
+                        <td>@item.CategoryName</td>
+                        @if (item.Status==true)
+                        {
+                            <td>Aktif</td>
+                        }
+                        else
+                        {
+                            <td>Pasif</td>
+                        }
+                        <td>
+                            <a href="/admin/urun-kategori-guncelle" class="btn btn-outline-primary">Güncelle</a>
+                            <a href="/admin/urun-kategori-sil" class="btn btn-outline-danger" onclick="return confirm("Veriyi Silmek İstediğine Emin misin?")">Sil</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
