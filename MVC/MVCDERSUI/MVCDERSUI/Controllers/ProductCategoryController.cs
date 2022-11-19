@@ -39,8 +39,8 @@ namespace MVCDERSUI.Controllers
                     context.SaveChanges();
                     return RedirectToAction(nameof(Index));
                 }
-                return View(productCategory);
             }
+            return View(productCategory);
         }
     }
 }
