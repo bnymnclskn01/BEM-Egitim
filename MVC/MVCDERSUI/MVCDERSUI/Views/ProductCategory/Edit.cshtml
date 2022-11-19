@@ -1,0 +1,24 @@
+﻿@model MVCDERSUI.Models.Entity.ProductCategory
+@{
+    ViewData["Title"] = "Yeni Ürün Kategori Güncelle";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="row">
+    <div class="col-l-12">
+        <form action="/admin/urun-kategori-guncelle/@Model.ID" method="post">
+            <div class="form-group">
+                <label class="form-control">Ürün Kategori Sırası</label>
+                <input type="number" class="form-control" value="@Model.Rank" maxlength="3" name="Rank" required placeholder="Lütfen Kategori Sırası Giriniz" />
+            </div>
+            <div class="form-group">
+                <label class="form-control">Ürün Kategori Adı</label>
+                <input type="text" class="form-control" value="@Model.CategoryName" maxlength="110" name="CategoryName" required placeholder="Lütfen Kategori Adı Giriniz" />
+            </div>
+            <div class="form-group">
+                <label class="form-control">İşlem Butonları</label>
+                <button type="submit" class="btn btn-outline-primary">Yeni Ürün Kategorisi Güncelle</button>
+                <a asp-controller="ProductCategory" asp-action="Index" class="btn btn-outline-dark">Listeye Geri Dön</a>
+            </div>
+        </form>
+    </div>
+</div>

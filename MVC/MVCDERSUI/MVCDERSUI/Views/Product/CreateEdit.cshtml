@@ -1,0 +1,54 @@
+﻿@model MVCDERSUI.Models.Entity.Product
+@{
+    ViewData["Title"] = "Yeni Ürün Kategorisi Ekle & Güncelle";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="row">
+    <div class="col-lg-3"></div>
+    <div class="col-lg-9">
+        @if (Model != null)
+        {
+            <form action="/admin/urun-ekle/@Model.ID" method="post">
+                <div class="form-group">
+                    <label>Ürün Sırası</label>
+                    <input type="number" value="@Model.Rank" name="Rank" class="form-control" required/>
+                </div>
+                <div class="form-group">
+                    <label>Ürün Adı</label>
+                    <input type="text" value="@Model.ProductName" name="ProductName" class="form-control" required />
+                </div>
+                <div class="form-group">
+                    <label>Ürün Kategori Adı</label>
+                    @Html.DropDownList("ProductCategoryID",null, htmlAttributes: new{@class="form-control"})
+                </div>
+                <div class="form-group">
+                    <label>İşlem Butonları</label>
+                    <button class="btn btn-outline-primary" type="submit">Yeni Ürün Güncelle</button>
+                    <a asp-controller="Proudct" asp-action="Index" class="btn btn-outline-dark">Listeye Geri Dön</a>
+                </div>
+            </form>
+        }
+        else
+        {
+            <form action="/admin/urun-ekle/" method="post">
+                <div class="form-group">
+                    <label>Ürün Sırası</label>
+                    <input type="number" name="Rank" class="form-control" required/>
+                </div>
+                <div class="form-group">
+                    <label>Ürün Adı</label>
+                    <input type="text" name="ProductName" class="form-control" required />
+                </div>
+                <div class="form-group">
+                    <label>Ürün Kategori Adı</label>
+                    @Html.DropDownList("ProductCategoryID",null, htmlAttributes: new{@class="form-control"})
+                </div>
+                <div class="form-group">
+                    <label>İşlem Butonları</label>
+                    <button class="btn btn-outline-success" type="submit">Yeni Ürün Ekle</button>
+                    <a asp-controller="Product" asp-action="Index" class="btn btn-outline-dark">Listeye Geri Dön</a>
+                </div>
+            </form>
+        }
+    </div>
+</div>

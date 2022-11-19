@@ -1,0 +1,41 @@
+﻿@model IEnumerable<MVCDERSUI.Models.Entity.Product>
+@{
+    ViewData["Title"] = "Ürün Listele";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="container-fliud">
+    <div class="row">
+        <table>
+            <thead>
+                <tr>
+                    <th>Ürün Sırası</th>
+                    <th>Ürün Kategorisi</th>
+                    <th>Ürün Adı</th>
+                    <th>Ürün Statüsü</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.Rank</td>
+                        <td>@item.ProductCategory.CategoryName</td>
+                        <td>@item.ProductName</td>
+                        @if (item.Status==true)
+                        {
+                            <td>Aktif</td>
+                        }
+                        else{
+                            <td>Pasif</td>
+                        }
+                        <td>
+                            <a href="/admin/urun-ekle/@item.ID" class="btn btn-outline-primary">Güncelle</a>
+                            <a href="/admin/urun-sil/@item.ID" class="btn btn-outline-danger">Sil</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
