@@ -22,7 +22,6 @@ namespace SorunTakipSistemi.WEBUI.Controllers
         }
 
         [HttpPost]
-        [Route("rol-ekle/{ID}")]
         [Route("rol-ekle")]
         public async Task<IActionResult> Create(UserMemberRole userMemberRole)
         {
