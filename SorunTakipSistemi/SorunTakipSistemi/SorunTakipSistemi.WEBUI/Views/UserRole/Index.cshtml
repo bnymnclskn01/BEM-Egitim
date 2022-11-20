@@ -1,0 +1,66 @@
+﻿@model IEnumerable<SorunTakipSistemiEntityLayer.Model.UserMemberRole>
+@{
+    ViewData["Title"] = "Kullanıcı Rol Listele";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<!-- start page title -->
+<div class="row">
+    <div class="col-12">
+        <div class="page-title-box">
+            <h4 class="page-title">Kullanıcı Rol Listele</h4>
+        </div>
+    </div>
+</div>
+<!-- end page title -->
+<div class="row">
+    <div class="col-12">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="header-title">Kullanıcı Rol Listeleme Tablosu
+                    <a href="/rol-ekle" class="btn btn-outline-success"><i class="fa fa-check"></i> Yeni Rol Ekle</a>
+                </h4>
+
+                <table id="basic-datatable" class="table dt-responsive nowrap w-100">
+                    <thead>
+                        <tr>
+                            <th>Rol Adı</th>
+                            <th>Rol Kodu</th>
+                            <th>Rol Notu</th>
+                            <th>Statu</th>
+                            <th>Ekleme Tarihi</th>
+                            <th>Güncelleme Tarihi</th>
+                            <th></th>
+                        </tr>
+                    </thead>
+
+
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <td>@item.RoleName</td>
+                                <td>@item.RoleCode</td>
+                                <td>@item.RoleNote</td>
+                                @if (item.Status == true)
+                                {
+                                    <td><i class="fa fa-check"></i> Aktif</td>
+                                }
+                                else
+                                {
+                                    <td><i class="fa fa-times"></i> Pasif</td>
+                                }
+                                <td>@item.CreateDate.ToShortDateString() : @item.CreateDate.ToShortTimeString()</td>
+                                <td>@item.UpdateDate.ToShortDateString() : @item.UpdateDate.ToShortTimeString()</td>
+                                <td>
+                                    <a href="/rol-guncelle/@item.ID" class="btn btn-outline-primary"><i class="fa fa-edit"></i></a>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+
+            </div> <!-- end card body-->
+        </div> <!-- end card -->
+    </div><!-- end col-->
+</div>
+<!-- end row-->

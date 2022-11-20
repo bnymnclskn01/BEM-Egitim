@@ -1,0 +1,57 @@
+﻿@model SorunTakipSistemiEntityLayer.Model.UserMemberRole
+@{
+    ViewData["Title"] = "Kullanıcı Rol Güncelle";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<!-- start page title -->
+<div class="row">
+    <div class="col-12">
+        <div class="page-title-box">
+            <h4 class="page-title">Yeni Rol Güncelleme Formu</h4>
+        </div>
+    </div>
+</div>
+<!-- end page title -->
+<div class="row">
+    <div class="col-12">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="header-title">Rol Güncelle</h4>
+            </div>
+            <div class="row">
+                <div class="col-12">
+                    <div class="p-2">
+                        <form action="/rol-guncelle/@Model.ID" method="post">
+                            <div class="form-group mb-2 row">
+                                <label class="col-md-2 col-form-label">Rol Adı(*) :</label>
+                                <div class="col-md-10">
+                                    <input type="text" value="@Model.RoleName" class="form-control" required name="RoleName" placeholder="Lütfen Rol Adı Giriniz." maxlength="30">
+                                </div>
+                            </div>
+                            <div class="form-group mb-2 row">
+                                <label class="col-md-2 col-form-label">Rol Kodu(*) :</label>
+                                <div class="col-md-10">
+                                    <input type="number" value="@Model.RoleCode" class="form-control" required name="RoleCode" placeholder="Lütfen Rol Kodu Giriniz." maxlength="2">
+                                </div>
+                            </div>
+                            <div class="form-group mb-2 row">
+                                <label class="col-md-2 col-form-label">Rol Notu :</label>
+                                <div class="col-md-10">
+                                    <textarea class="form-control" maxlength="300" name="RoleNote" rows="5" placeholder="Lütfen Rol Notu Giriniz.">@Model.RoleNote</textarea>
+                                </div>
+                            </div>
+                            <div class="form-group mb-2 row">
+                                <label class="col-md-2 col-form-label">İşlem Butonu :</label>
+                                <div class="col-md-10">
+                                    <button type="submit" class="btn btn-outline-primary"><i class="fa fa-edit"></i>Yeni Kullanıcı Güncelle</button>
+                                    <a href="/rol-listele" class="btn btn-outline-dark"><i class="fa fa-reply-all"></i> Listeye Geri Dön</a>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end row-->

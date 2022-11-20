@@ -1,0 +1,4 @@
+Veritabanı Sunucu Bilgisi : 89.252.181.210\MSSQLSERVER2014
+Veritabanı Adı : mekacom_SorunTakip
+Veritabanı Kullanıcı Adı : mekacom_SorunTakipAdmin
+Veritabanı Kullanıcı Şifre : _Fd45ki57

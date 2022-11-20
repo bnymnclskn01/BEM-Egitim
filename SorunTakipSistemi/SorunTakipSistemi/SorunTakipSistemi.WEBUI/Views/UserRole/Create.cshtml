@@ -1,0 +1,66 @@
+﻿@model SorunTakipSistemiEntityLayer.Model.UserMemberRole
+@{
+    ViewData["Title"] = "Yeni Kullanıcı Rol Ekle";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<!-- start page title -->
+<div class="row">
+    <div class="col-12">
+        <div class="page-title-box">
+            <h4 class="page-title">Yeni Rol Ekleme Formu</h4>
+        </div>
+    </div>
+</div>
+<!-- end page title -->
+<div class="row">
+    <div class="col-12">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="header-title">Rol Ekle</h4>
+            </div>
+            <div class="row">
+                <div class="col-12">
+                    <div class="p-2">
+                        <form action="/rol-ekle" method="post">
+                            @if (ViewBag.Hata != null)
+                            {
+                                <div class="form-group mb-2 row alert alert-danger">
+                                    <label class="col-md-2 col-form-label">Hata Mesajı :</label>
+                                    <div class="col-md-10">
+                                        <p>@ViewBag.Hata</p>
+                                    </div>
+                                </div>
+                            }
+                            <div class="form-group mb-2 row">
+                                <label class="col-md-2 col-form-label">Rol Adı(*) :</label>
+                                <div class="col-md-10">
+                                    <input type="text" class="form-control" required name="RoleName" placeholder="Lütfen Rol Adı Giriniz." maxlength="30">
+                                </div>
+                            </div>
+                            <div class="form-group mb-2 row">
+                                <label class="col-md-2 col-form-label">Rol Kodu(*) :</label>
+                                <div class="col-md-10">
+                                    <input type="number" class="form-control" required name="RoleCode" placeholder="Lütfen Rol Kodu Giriniz." maxlength="2">
+                                </div>
+                            </div>
+                            <div class="form-group mb-2 row">
+                                <label class="col-md-2 col-form-label">Rol Notu :</label>
+                                <div class="col-md-10">
+                                    <textarea class="form-control" maxlength="300" name="RoleNote" placeholder="Lütfen Rol Notu Giriniz."></textarea>
+                                </div>
+                            </div>
+                            <div class="form-group mb-2 row">
+                                <label class="col-md-2 col-form-label">İşlem Butonu :</label>
+                                <div class="col-md-10">
+                                    <button type="submit" class="btn btn-outline-success"><i class="fa fa-check"></i>Yeni Kullanıcı Ekle</button>
+                                    <a href="/rol-listele" class="btn btn-outline-dark"><i class="fa fa-reply-all"></i> Listeye Geri Dön</a>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end row-->

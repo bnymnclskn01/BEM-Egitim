@@ -1,0 +1,14 @@
+C:\Users\ever_\OneDrive\Belgeler\GitHub\BEM-Egitim\SorunTakipSistemi\SorunTakipSistemi\SorunTakipSistemiEntityLayer\bin\Debug\net6.0\SorunTakipSistemiEntityLayer.deps.json
+C:\Users\ever_\OneDrive\Belgeler\GitHub\BEM-Egitim\SorunTakipSistemi\SorunTakipSistemi\SorunTakipSistemiEntityLayer\bin\Debug\net6.0\SorunTakipSistemiEntityLayer.runtimeconfig.json
+C:\Users\ever_\OneDrive\Belgeler\GitHub\BEM-Egitim\SorunTakipSistemi\SorunTakipSistemi\SorunTakipSistemiEntityLayer\bin\Debug\net6.0\SorunTakipSistemiEntityLayer.dll
+C:\Users\ever_\OneDrive\Belgeler\GitHub\BEM-Egitim\SorunTakipSistemi\SorunTakipSistemi\SorunTakipSistemiEntityLayer\bin\Debug\net6.0\SorunTakipSistemiEntityLayer.pdb
+C:\Users\ever_\OneDrive\Belgeler\GitHub\BEM-Egitim\SorunTakipSistemi\SorunTakipSistemi\SorunTakipSistemiEntityLayer\obj\Debug\net6.0\SorunTakipSistemiEntityLayer.csproj.AssemblyReference.cache
+C:\Users\ever_\OneDrive\Belgeler\GitHub\BEM-Egitim\SorunTakipSistemi\SorunTakipSistemi\SorunTakipSistemiEntityLayer\obj\Debug\net6.0\SorunTakipSistemiEntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ever_\OneDrive\Belgeler\GitHub\BEM-Egitim\SorunTakipSistemi\SorunTakipSistemi\SorunTakipSistemiEntityLayer\obj\Debug\net6.0\SorunTakipSistemiEntityLayer.AssemblyInfoInputs.cache
+C:\Users\ever_\OneDrive\Belgeler\GitHub\BEM-Egitim\SorunTakipSistemi\SorunTakipSistemi\SorunTakipSistemiEntityLayer\obj\Debug\net6.0\SorunTakipSistemiEntityLayer.AssemblyInfo.cs
+C:\Users\ever_\OneDrive\Belgeler\GitHub\BEM-Egitim\SorunTakipSistemi\SorunTakipSistemi\SorunTakipSistemiEntityLayer\obj\Debug\net6.0\SorunTakipSistemiEntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\ever_\OneDrive\Belgeler\GitHub\BEM-Egitim\SorunTakipSistemi\SorunTakipSistemi\SorunTakipSistemiEntityLayer\obj\Debug\net6.0\SorunTakipSistemiEntityLayer.dll
+C:\Users\ever_\OneDrive\Belgeler\GitHub\BEM-Egitim\SorunTakipSistemi\SorunTakipSistemi\SorunTakipSistemiEntityLayer\obj\Debug\net6.0\refint\SorunTakipSistemiEntityLayer.dll
+C:\Users\ever_\OneDrive\Belgeler\GitHub\BEM-Egitim\SorunTakipSistemi\SorunTakipSistemi\SorunTakipSistemiEntityLayer\obj\Debug\net6.0\SorunTakipSistemiEntityLayer.pdb
+C:\Users\ever_\OneDrive\Belgeler\GitHub\BEM-Egitim\SorunTakipSistemi\SorunTakipSistemi\SorunTakipSistemiEntityLayer\obj\Debug\net6.0\SorunTakipSistemiEntityLayer.genruntimeconfig.cache
+C:\Users\ever_\OneDrive\Belgeler\GitHub\BEM-Egitim\SorunTakipSistemi\SorunTakipSistemi\SorunTakipSistemiEntityLayer\obj\Debug\net6.0\ref\SorunTakipSistemiEntityLayer.dll
