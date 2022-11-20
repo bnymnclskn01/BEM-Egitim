@@ -65,5 +65,18 @@ namespace MVCDERSUI.Controllers
                 return RedirectToAction(nameof(Index));
             }
         }
+
+        [HttpGet("admin/urun-sil/{ID}")]
+        public IActionResult Delete(Guid ID)
+        {
+            var product = context.Products.FirstOrDefault(x => x.ID == ID);
+            if (ModelState.IsValid)
+            {
+                context.Products.Remove(product);
+                context.SaveChanges();
+                return RedirectToAction(nameof(Index));
+            }
+            return View(product);
+        }
     }
 }
