@@ -1,0 +1,50 @@
+﻿@model IEnumerable<JoinDataTable.WebUI.Models.Model.Product>
+@{
+	ViewData["Title"] = "Ürün Listele";
+	Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="row">
+	<div class="col">
+		<section class="card">
+			<header class="card-header">
+				<div class="card-actions">
+					<a href="#" class="card-action card-action-toggle" data-card-toggle></a>
+				</div>
+
+				<h2 class="card-title">Ürün Listele</h2>
+			</header>
+			<div class="card-body">
+
+				<table class="table table-bordered table-striped mb-0" id="datatable-default">
+
+					<thead>
+						<tr>
+							<th>Ürün Kategorisi</th>
+							<th>Ürün Adı</th>
+							<th>Ürün Resimi</th>
+							<th>Ürün Url</th>
+							<th></th>
+						</tr>
+					</thead>
+					<tbody>
+						@foreach (var item in Model)
+						{
+							<tr>
+								<td>@item.ProductCategory.Title</td>
+								<td>
+									@item.Title
+								</td>
+								<td><img src="/Image/@item.ImageUrl"  width="100"/></td>
+								<td>/urun/@item.Slug</td>
+								<td>
+									<a href="/Home/ProductEdit/@item.ID" class="btn btn-outline-primary"><i class="fa fa-pencil"></i></a>
+									<a href="/Home/ProductDelete/@item.ID" class="btn btn-outline-danger"><i class="fa fa-trash-o"></i></a>
+								</td>
+							</tr>
+						}
+					</tbody>
+				</table>
+			</div>
+		</section>
+	</div>
+</div>

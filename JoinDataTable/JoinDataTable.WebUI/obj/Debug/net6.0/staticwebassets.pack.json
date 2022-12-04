@@ -5,244 +5,1120 @@
       "PackagePath": "staticwebassets\\JoinDataTable.WebUI.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\css\\site.css",
-      "PackagePath": "staticwebassets\\css\\site.css"
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\ajax\\img\\projects\\project-1.html",
+      "PackagePath": "staticwebassets\\Site\\ajax\\img\\projects\\project-1.html"
     },
     {
-      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\favicon.ico",
-      "PackagePath": "staticwebassets\\favicon.ico"
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\ajax\\ui-elements-lightbox-ajax.html",
+      "PackagePath": "staticwebassets\\Site\\ajax\\ui-elements-lightbox-ajax.html"
     },
     {
-      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\js\\site.js",
-      "PackagePath": "staticwebassets\\js\\site.js"
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\ajax\\ui-elements-modals-ajax.html",
+      "PackagePath": "staticwebassets\\Site\\ajax\\ui-elements-modals-ajax.html"
     },
     {
-      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\lib\\bootstrap\\LICENSE",
-      "PackagePath": "staticwebassets\\lib\\bootstrap"
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\css\\custom.css",
+      "PackagePath": "staticwebassets\\Site\\css\\custom.css"
     },
     {
-      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\css\\invoice-print.css",
+      "PackagePath": "staticwebassets\\Site\\css\\invoice-print.css"
     },
     {
-      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\css\\landing.css",
+      "PackagePath": "staticwebassets\\Site\\css\\landing.css"
     },
     {
-      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\css\\layouts\\modern.css",
+      "PackagePath": "staticwebassets\\Site\\css\\layouts\\modern.css"
     },
     {
-      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\css\\skins\\square-borders.css",
+      "PackagePath": "staticwebassets\\Site\\css\\skins\\square-borders.css"
     },
     {
-      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\css\\theme.css",
+      "PackagePath": "staticwebassets\\Site\\css\\theme.css"
     },
     {
-      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\img\\!logged-user.jpg",
+      "PackagePath": "staticwebassets\\Site\\img\\!logged-user.jpg"
     },
     {
-      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\img\\!sample-user.jpg",
+      "PackagePath": "staticwebassets\\Site\\img\\!sample-user.jpg"
     },
     {
-      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\img\\arrows-dark.png",
+      "PackagePath": "staticwebassets\\Site\\img\\arrows-dark.png"
     },
     {
-      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\img\\arrows.png",
+      "PackagePath": "staticwebassets\\Site\\img\\arrows.png"
     },
     {
-      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\img\\blank.gif",
+      "PackagePath": "staticwebassets\\Site\\img\\blank.gif"
     },
     {
-      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\img\\blog-image-1.jpg",
+      "PackagePath": "staticwebassets\\Site\\img\\blog-image-1.jpg"
     },
     {
-      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\img\\blog-image-2.jpg",
+      "PackagePath": "staticwebassets\\Site\\img\\blog-image-2.jpg"
     },
     {
-      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\img\\blog-image-3.jpg",
+      "PackagePath": "staticwebassets\\Site\\img\\blog-image-3.jpg"
     },
     {
-      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\img\\bs5-updated.png",
+      "PackagePath": "staticwebassets\\Site\\img\\bs5-updated.png"
     },
     {
-      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\img\\device.png",
+      "PackagePath": "staticwebassets\\Site\\img\\device.png"
     },
     {
-      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\img\\flags.png",
+      "PackagePath": "staticwebassets\\Site\\img\\flags.png"
     },
     {
-      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\img\\icons\\icons.png",
+      "PackagePath": "staticwebassets\\Site\\img\\icons\\icons.png"
     },
     {
-      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\img\\invoice-logo.png",
+      "PackagePath": "staticwebassets\\Site\\img\\invoice-logo.png"
     },
     {
-      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\img\\jstree-dark.png",
+      "PackagePath": "staticwebassets\\Site\\img\\jstree-dark.png"
     },
     {
-      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\img\\jstree.png",
+      "PackagePath": "staticwebassets\\Site\\img\\jstree.png"
     },
     {
-      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\img\\landing\\build_bg.jpg",
+      "PackagePath": "staticwebassets\\Site\\img\\landing\\build_bg.jpg"
     },
     {
-      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\img\\landing\\header_bg.jpg",
+      "PackagePath": "staticwebassets\\Site\\img\\landing\\header_bg.jpg"
     },
     {
-      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\img\\landing\\porto_performance_bg.png",
+      "PackagePath": "staticwebassets\\Site\\img\\landing\\porto_performance_bg.png"
     },
     {
-      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\img\\landing\\reason1.png",
+      "PackagePath": "staticwebassets\\Site\\img\\landing\\reason1.png"
     },
     {
-      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\img\\landing\\reason2.png",
+      "PackagePath": "staticwebassets\\Site\\img\\landing\\reason2.png"
     },
     {
-      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\img\\landing\\reason3.png",
+      "PackagePath": "staticwebassets\\Site\\img\\landing\\reason3.png"
     },
     {
-      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\img\\landing\\reason4.png",
+      "PackagePath": "staticwebassets\\Site\\img\\landing\\reason4.png"
     },
     {
-      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\img\\landing\\reason5.png",
+      "PackagePath": "staticwebassets\\Site\\img\\landing\\reason5.png"
     },
     {
-      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\img\\landing\\reason6.png",
+      "PackagePath": "staticwebassets\\Site\\img\\landing\\reason6.png"
     },
     {
-      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\img\\landing\\reason_bg.png",
+      "PackagePath": "staticwebassets\\Site\\img\\landing\\reason_bg.png"
     },
     {
-      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\img\\lazy.png",
+      "PackagePath": "staticwebassets\\Site\\img\\lazy.png"
     },
     {
-      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\img\\logo-default.png",
+      "PackagePath": "staticwebassets\\Site\\img\\logo-default.png"
     },
     {
-      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\img\\logo-light.png",
+      "PackagePath": "staticwebassets\\Site\\img\\logo-light.png"
     },
     {
-      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\img\\logo-modern.png",
+      "PackagePath": "staticwebassets\\Site\\img\\logo-modern.png"
     },
     {
-      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\img\\logo.png",
+      "PackagePath": "staticwebassets\\Site\\img\\logo.png"
     },
     {
-      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\img\\patterns\\gray_jean.png",
+      "PackagePath": "staticwebassets\\Site\\img\\patterns\\gray_jean.png"
     },
     {
-      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\img\\patterns\\noisy_net.png",
+      "PackagePath": "staticwebassets\\Site\\img\\patterns\\noisy_net.png"
     },
     {
-      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\img\\patterns\\stripes.html",
+      "PackagePath": "staticwebassets\\Site\\img\\patterns\\stripes.html"
     },
     {
-      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\img\\pencil-blue-line-2-dark.png",
+      "PackagePath": "staticwebassets\\Site\\img\\pencil-blue-line-2-dark.png"
     },
     {
-      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\img\\pencil-blue-line-2.png",
+      "PackagePath": "staticwebassets\\Site\\img\\pencil-blue-line-2.png"
     },
     {
-      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\img\\pencil-blue-line-dark.png",
+      "PackagePath": "staticwebassets\\Site\\img\\pencil-blue-line-dark.png"
     },
     {
-      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\img\\pencil-blue-line.png",
+      "PackagePath": "staticwebassets\\Site\\img\\pencil-blue-line.png"
     },
     {
-      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\img\\post-thumb-1.jpg",
+      "PackagePath": "staticwebassets\\Site\\img\\post-thumb-1.jpg"
     },
     {
-      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\img\\post-thumb-2.jpg",
+      "PackagePath": "staticwebassets\\Site\\img\\post-thumb-2.jpg"
     },
     {
-      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\img\\post-thumb-3.jpg",
+      "PackagePath": "staticwebassets\\Site\\img\\post-thumb-3.jpg"
     },
     {
-      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\img\\products\\product-1.jpg",
+      "PackagePath": "staticwebassets\\Site\\img\\products\\product-1.jpg"
     },
     {
-      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\img\\products\\product-2.jpg",
+      "PackagePath": "staticwebassets\\Site\\img\\products\\product-2.jpg"
     },
     {
-      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\img\\products\\product-3.jpg",
+      "PackagePath": "staticwebassets\\Site\\img\\products\\product-3.jpg"
     },
     {
-      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\img\\products\\product-4.jpg",
+      "PackagePath": "staticwebassets\\Site\\img\\products\\product-4.jpg"
     },
     {
-      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\img\\products\\product-5.jpg",
+      "PackagePath": "staticwebassets\\Site\\img\\products\\product-5.jpg"
     },
     {
-      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\img\\products\\product-6.jpg",
+      "PackagePath": "staticwebassets\\Site\\img\\products\\product-6.jpg"
     },
     {
-      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\img\\products\\product-7.jpg",
+      "PackagePath": "staticwebassets\\Site\\img\\products\\product-7.jpg"
     },
     {
-      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\lib\\jquery\\LICENSE.txt",
-      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\img\\products\\product-8.jpg",
+      "PackagePath": "staticwebassets\\Site\\img\\products\\product-8.jpg"
     },
     {
-      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\lib\\jquery\\dist\\jquery.js",
-      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\img\\projects\\project-1.jpg",
+      "PackagePath": "staticwebassets\\Site\\img\\projects\\project-1.jpg"
     },
     {
-      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
-      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\img\\projects\\project-2.jpg",
+      "PackagePath": "staticwebassets\\Site\\img\\projects\\project-2.jpg"
     },
     {
-      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
-      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\img\\projects\\project-3.jpg",
+      "PackagePath": "staticwebassets\\Site\\img\\projects\\project-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\img\\projects\\project-4.jpg",
+      "PackagePath": "staticwebassets\\Site\\img\\projects\\project-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\img\\projects\\project-5.jpg",
+      "PackagePath": "staticwebassets\\Site\\img\\projects\\project-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\img\\projects\\project-6.jpg",
+      "PackagePath": "staticwebassets\\Site\\img\\projects\\project-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\img\\projects\\project-7.jpg",
+      "PackagePath": "staticwebassets\\Site\\img\\projects\\project-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\img\\projects\\project.jpg",
+      "PackagePath": "staticwebassets\\Site\\img\\projects\\project.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\img\\widget-twitter-profile.jpg",
+      "PackagePath": "staticwebassets\\Site\\img\\widget-twitter-profile.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\js\\custom.js",
+      "PackagePath": "staticwebassets\\Site\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\js\\examples\\examples.advanced.form.js",
+      "PackagePath": "staticwebassets\\Site\\js\\examples\\examples.advanced.form.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\js\\examples\\examples.ajax.made.easy.js",
+      "PackagePath": "staticwebassets\\Site\\js\\examples\\examples.ajax.made.easy.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\js\\examples\\examples.calendar.js",
+      "PackagePath": "staticwebassets\\Site\\js\\examples\\examples.calendar.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\js\\examples\\examples.charts.js",
+      "PackagePath": "staticwebassets\\Site\\js\\examples\\examples.charts.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\js\\examples\\examples.dashboard.js",
+      "PackagePath": "staticwebassets\\Site\\js\\examples\\examples.dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\js\\examples\\examples.datatables.ajax.js",
+      "PackagePath": "staticwebassets\\Site\\js\\examples\\examples.datatables.ajax.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\js\\examples\\examples.datatables.default.js",
+      "PackagePath": "staticwebassets\\Site\\js\\examples\\examples.datatables.default.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\js\\examples\\examples.datatables.editable.js",
+      "PackagePath": "staticwebassets\\Site\\js\\examples\\examples.datatables.editable.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\js\\examples\\examples.datatables.row.with.details.js",
+      "PackagePath": "staticwebassets\\Site\\js\\examples\\examples.datatables.row.with.details.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\js\\examples\\examples.datatables.tabletools.js",
+      "PackagePath": "staticwebassets\\Site\\js\\examples\\examples.datatables.tabletools.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\js\\examples\\examples.ecommerce.dashboard.js",
+      "PackagePath": "staticwebassets\\Site\\js\\examples\\examples.ecommerce.dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\js\\examples\\examples.ecommerce.datatables.list.js",
+      "PackagePath": "staticwebassets\\Site\\js\\examples\\examples.ecommerce.datatables.list.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\js\\examples\\examples.ecommerce.form.js",
+      "PackagePath": "staticwebassets\\Site\\js\\examples\\examples.ecommerce.form.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\js\\examples\\examples.ecommerce.orders.detail.js",
+      "PackagePath": "staticwebassets\\Site\\js\\examples\\examples.ecommerce.orders.detail.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\js\\examples\\examples.ecommerce.sidebar.overlay.js",
+      "PackagePath": "staticwebassets\\Site\\js\\examples\\examples.ecommerce.sidebar.overlay.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\js\\examples\\examples.gmap.js",
+      "PackagePath": "staticwebassets\\Site\\js\\examples\\examples.gmap.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\js\\examples\\examples.header.menu.js",
+      "PackagePath": "staticwebassets\\Site\\js\\examples\\examples.header.menu.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\js\\examples\\examples.lightbox.js",
+      "PackagePath": "staticwebassets\\Site\\js\\examples\\examples.lightbox.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\js\\examples\\examples.loading.overlay.js",
+      "PackagePath": "staticwebassets\\Site\\js\\examples\\examples.loading.overlay.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\js\\examples\\examples.loading.progress.js",
+      "PackagePath": "staticwebassets\\Site\\js\\examples\\examples.loading.progress.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\js\\examples\\examples.lockscreen.js",
+      "PackagePath": "staticwebassets\\Site\\js\\examples\\examples.lockscreen.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\js\\examples\\examples.map.builder.js",
+      "PackagePath": "staticwebassets\\Site\\js\\examples\\examples.map.builder.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\js\\examples\\examples.mediagallery.js",
+      "PackagePath": "staticwebassets\\Site\\js\\examples\\examples.mediagallery.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\js\\examples\\examples.modals.js",
+      "PackagePath": "staticwebassets\\Site\\js\\examples\\examples.modals.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\js\\examples\\examples.nestable.js",
+      "PackagePath": "staticwebassets\\Site\\js\\examples\\examples.nestable.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\js\\examples\\examples.notifications.js",
+      "PackagePath": "staticwebassets\\Site\\js\\examples\\examples.notifications.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\js\\examples\\examples.portlets.js",
+      "PackagePath": "staticwebassets\\Site\\js\\examples\\examples.portlets.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\js\\examples\\examples.session.timeout.js",
+      "PackagePath": "staticwebassets\\Site\\js\\examples\\examples.session.timeout.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\js\\examples\\examples.timeline.js",
+      "PackagePath": "staticwebassets\\Site\\js\\examples\\examples.timeline.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\js\\examples\\examples.treeview.js",
+      "PackagePath": "staticwebassets\\Site\\js\\examples\\examples.treeview.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\js\\examples\\examples.validation.js",
+      "PackagePath": "staticwebassets\\Site\\js\\examples\\examples.validation.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\js\\examples\\examples.vector.maps.js",
+      "PackagePath": "staticwebassets\\Site\\js\\examples\\examples.vector.maps.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\js\\examples\\examples.widgets.js",
+      "PackagePath": "staticwebassets\\Site\\js\\examples\\examples.widgets.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\js\\examples\\examples.wizard.js",
+      "PackagePath": "staticwebassets\\Site\\js\\examples\\examples.wizard.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\js\\theme.init.js",
+      "PackagePath": "staticwebassets\\Site\\js\\theme.init.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\js\\theme.js",
+      "PackagePath": "staticwebassets\\Site\\js\\theme.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\master\\style-switcher\\style.switcher.js",
+      "PackagePath": "staticwebassets\\Site\\master\\style-switcher\\style.switcher.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\master\\style-switcher\\style.switcher.localstorage.js",
+      "PackagePath": "staticwebassets\\Site\\master\\style-switcher\\style.switcher.localstorage.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\animate\\animate.compat.css",
+      "PackagePath": "staticwebassets\\Site\\vendor\\animate\\animate.compat.css"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\autosize\\autosize.js",
+      "PackagePath": "staticwebassets\\Site\\vendor\\autosize\\autosize.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\bootstrap-colorpicker\\css\\bootstrap-colorpicker.css",
+      "PackagePath": "staticwebassets\\Site\\vendor\\bootstrap-colorpicker\\css\\bootstrap-colorpicker.css"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\bootstrap-datepicker\\css\\bootstrap-datepicker3.css",
+      "PackagePath": "staticwebassets\\Site\\vendor\\bootstrap-datepicker\\css\\bootstrap-datepicker3.css"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\bootstrap-datepicker\\js\\bootstrap-datepicker.js",
+      "PackagePath": "staticwebassets\\Site\\vendor\\bootstrap-datepicker\\js\\bootstrap-datepicker.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\bootstrap-fileupload\\bootstrap-fileupload.min.css",
+      "PackagePath": "staticwebassets\\Site\\vendor\\bootstrap-fileupload\\bootstrap-fileupload.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\bootstrap-fileupload\\bootstrap-fileupload.min.js",
+      "PackagePath": "staticwebassets\\Site\\vendor\\bootstrap-fileupload\\bootstrap-fileupload.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\bootstrap-markdown\\css\\bootstrap-markdown.min.css",
+      "PackagePath": "staticwebassets\\Site\\vendor\\bootstrap-markdown\\css\\bootstrap-markdown.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\bootstrap-markdown\\js\\bootstrap-markdown.js",
+      "PackagePath": "staticwebassets\\Site\\vendor\\bootstrap-markdown\\js\\bootstrap-markdown.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\bootstrap-markdown\\js\\markdown.js",
+      "PackagePath": "staticwebassets\\Site\\vendor\\bootstrap-markdown\\js\\markdown.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\bootstrap-markdown\\js\\to-markdown.js",
+      "PackagePath": "staticwebassets\\Site\\vendor\\bootstrap-markdown\\js\\to-markdown.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\bootstrap-maxlength\\bootstrap-maxlength.js",
+      "PackagePath": "staticwebassets\\Site\\vendor\\bootstrap-maxlength\\bootstrap-maxlength.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\bootstrap-multiselect\\css\\bootstrap-multiselect.css",
+      "PackagePath": "staticwebassets\\Site\\vendor\\bootstrap-multiselect\\css\\bootstrap-multiselect.css"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\bootstrap-tagsinput\\bootstrap-tagsinput.css",
+      "PackagePath": "staticwebassets\\Site\\vendor\\bootstrap-tagsinput\\bootstrap-tagsinput.css"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\bootstrap-tagsinput\\bootstrap-tagsinput.js",
+      "PackagePath": "staticwebassets\\Site\\vendor\\bootstrap-tagsinput\\bootstrap-tagsinput.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\bootstrap-timepicker\\css\\bootstrap-timepicker.css",
+      "PackagePath": "staticwebassets\\Site\\vendor\\bootstrap-timepicker\\css\\bootstrap-timepicker.css"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\bootstrap-timepicker\\js\\bootstrap-timepicker.js",
+      "PackagePath": "staticwebassets\\Site\\vendor\\bootstrap-timepicker\\js\\bootstrap-timepicker.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\Site\\vendor\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\Site\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\bootstrapv5-colorpicker\\js\\bootstrap-colorpicker.js",
+      "PackagePath": "staticwebassets\\Site\\vendor\\bootstrapv5-colorpicker\\js\\bootstrap-colorpicker.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\bootstrapv5-multiselect\\js\\bootstrap-multiselect.js",
+      "PackagePath": "staticwebassets\\Site\\vendor\\bootstrapv5-multiselect\\js\\bootstrap-multiselect.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\bootstrapv5-wizard\\jquery.bootstrap.wizard.js",
+      "PackagePath": "staticwebassets\\Site\\vendor\\bootstrapv5-wizard\\jquery.bootstrap.wizard.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\boxicons\\css\\boxicons.min.css",
+      "PackagePath": "staticwebassets\\Site\\vendor\\boxicons\\css\\boxicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\boxicons\\fonts\\boxicons.eot",
+      "PackagePath": "staticwebassets\\Site\\vendor\\boxicons\\fonts\\boxicons.eot"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\boxicons\\fonts\\boxicons.ttf",
+      "PackagePath": "staticwebassets\\Site\\vendor\\boxicons\\fonts\\boxicons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\boxicons\\fonts\\boxicons.woff",
+      "PackagePath": "staticwebassets\\Site\\vendor\\boxicons\\fonts\\boxicons.woff"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\boxicons\\fonts\\boxicons.woff2",
+      "PackagePath": "staticwebassets\\Site\\vendor\\boxicons\\fonts\\boxicons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\boxicons\\fonts\\boxiconsd41d.svg",
+      "PackagePath": "staticwebassets\\Site\\vendor\\boxicons\\fonts\\boxiconsd41d.svg"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\chartist\\chartist.js",
+      "PackagePath": "staticwebassets\\Site\\vendor\\chartist\\chartist.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\chartist\\chartist.min.css",
+      "PackagePath": "staticwebassets\\Site\\vendor\\chartist\\chartist.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\codemirror\\addon\\edit\\matchbrackets.js",
+      "PackagePath": "staticwebassets\\Site\\vendor\\codemirror\\addon\\edit\\matchbrackets.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\codemirror\\addon\\selection\\active-line.js",
+      "PackagePath": "staticwebassets\\Site\\vendor\\codemirror\\addon\\selection\\active-line.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\codemirror\\lib\\codemirror.css",
+      "PackagePath": "staticwebassets\\Site\\vendor\\codemirror\\lib\\codemirror.css"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\codemirror\\lib\\codemirror.js",
+      "PackagePath": "staticwebassets\\Site\\vendor\\codemirror\\lib\\codemirror.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\codemirror\\mode\\css\\css.js",
+      "PackagePath": "staticwebassets\\Site\\vendor\\codemirror\\mode\\css\\css.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\codemirror\\mode\\htmlmixed\\htmlmixed.js",
+      "PackagePath": "staticwebassets\\Site\\vendor\\codemirror\\mode\\htmlmixed\\htmlmixed.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\codemirror\\mode\\javascript\\javascript.js",
+      "PackagePath": "staticwebassets\\Site\\vendor\\codemirror\\mode\\javascript\\javascript.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\codemirror\\mode\\xml\\xml.js",
+      "PackagePath": "staticwebassets\\Site\\vendor\\codemirror\\mode\\xml\\xml.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\codemirror\\theme\\monokai.css",
+      "PackagePath": "staticwebassets\\Site\\vendor\\codemirror\\theme\\monokai.css"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\common\\common.js",
+      "PackagePath": "staticwebassets\\Site\\vendor\\common\\common.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\datatables\\extras\\TableTools\\Buttons-1.4.2\\js\\buttons.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\Site\\vendor\\datatables\\extras\\TableTools\\Buttons-1.4.2\\js\\buttons.bootstrap4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\datatables\\extras\\TableTools\\Buttons-1.4.2\\js\\buttons.html5.min.js",
+      "PackagePath": "staticwebassets\\Site\\vendor\\datatables\\extras\\TableTools\\Buttons-1.4.2\\js\\buttons.html5.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\datatables\\extras\\TableTools\\Buttons-1.4.2\\js\\buttons.print.min.js",
+      "PackagePath": "staticwebassets\\Site\\vendor\\datatables\\extras\\TableTools\\Buttons-1.4.2\\js\\buttons.print.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\datatables\\extras\\TableTools\\Buttons-1.4.2\\js\\dataTables.buttons.min.js",
+      "PackagePath": "staticwebassets\\Site\\vendor\\datatables\\extras\\TableTools\\Buttons-1.4.2\\js\\dataTables.buttons.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\datatables\\extras\\TableTools\\JSZip-2.5.0\\jszip.min.js",
+      "PackagePath": "staticwebassets\\Site\\vendor\\datatables\\extras\\TableTools\\JSZip-2.5.0\\jszip.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\datatables\\extras\\TableTools\\pdfmake-0.1.32\\pdfmake.min.js",
+      "PackagePath": "staticwebassets\\Site\\vendor\\datatables\\extras\\TableTools\\pdfmake-0.1.32\\pdfmake.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\datatables\\extras\\TableTools\\pdfmake-0.1.32\\vfs_fonts.js",
+      "PackagePath": "staticwebassets\\Site\\vendor\\datatables\\extras\\TableTools\\pdfmake-0.1.32\\vfs_fonts.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\datatables\\media\\css\\dataTables.bootstrap5.css",
+      "PackagePath": "staticwebassets\\Site\\vendor\\datatables\\media\\css\\dataTables.bootstrap5.css"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\datatables\\media\\js\\dataTables.bootstrap5.min.js",
+      "PackagePath": "staticwebassets\\Site\\vendor\\datatables\\media\\js\\dataTables.bootstrap5.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\datatables\\media\\js\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\Site\\vendor\\datatables\\media\\js\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\dropzone\\basic.css",
+      "PackagePath": "staticwebassets\\Site\\vendor\\dropzone\\basic.css"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\dropzone\\dropzone.css",
+      "PackagePath": "staticwebassets\\Site\\vendor\\dropzone\\dropzone.css"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\dropzone\\dropzone.js",
+      "PackagePath": "staticwebassets\\Site\\vendor\\dropzone\\dropzone.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\elusive-icons\\css\\elusive-icons.css",
+      "PackagePath": "staticwebassets\\Site\\vendor\\elusive-icons\\css\\elusive-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\elusive-icons\\fonts\\elusiveicons-webfont28b5.eot",
+      "PackagePath": "staticwebassets\\Site\\vendor\\elusive-icons\\fonts\\elusiveicons-webfont28b5.eot"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\elusive-icons\\fonts\\elusiveicons-webfont28b5.svg",
+      "PackagePath": "staticwebassets\\Site\\vendor\\elusive-icons\\fonts\\elusiveicons-webfont28b5.svg"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\elusive-icons\\fonts\\elusiveicons-webfont28b5.ttf",
+      "PackagePath": "staticwebassets\\Site\\vendor\\elusive-icons\\fonts\\elusiveicons-webfont28b5.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\elusive-icons\\fonts\\elusiveicons-webfont28b5.woff",
+      "PackagePath": "staticwebassets\\Site\\vendor\\elusive-icons\\fonts\\elusiveicons-webfont28b5.woff"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\elusive-icons\\fonts\\elusiveicons-webfontd41d.eot",
+      "PackagePath": "staticwebassets\\Site\\vendor\\elusive-icons\\fonts\\elusiveicons-webfontd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\flot.tooltip\\jquery.flot.tooltip.js",
+      "PackagePath": "staticwebassets\\Site\\vendor\\flot.tooltip\\jquery.flot.tooltip.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\flot\\jquery.flot.categories.js",
+      "PackagePath": "staticwebassets\\Site\\vendor\\flot\\jquery.flot.categories.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\flot\\jquery.flot.js",
+      "PackagePath": "staticwebassets\\Site\\vendor\\flot\\jquery.flot.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\flot\\jquery.flot.pie.js",
+      "PackagePath": "staticwebassets\\Site\\vendor\\flot\\jquery.flot.pie.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\flot\\jquery.flot.resize.js",
+      "PackagePath": "staticwebassets\\Site\\vendor\\flot\\jquery.flot.resize.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\font-awesome\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\Site\\vendor\\font-awesome\\css\\all.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\font-awesome\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\Site\\vendor\\font-awesome\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\font-awesome\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\Site\\vendor\\font-awesome\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\font-awesome\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\Site\\vendor\\font-awesome\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\font-awesome\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\Site\\vendor\\font-awesome\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\font-awesome\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\Site\\vendor\\font-awesome\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\font-awesome\\webfonts\\fa-brands-400d41d.eot",
+      "PackagePath": "staticwebassets\\Site\\vendor\\font-awesome\\webfonts\\fa-brands-400d41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\font-awesome\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\Site\\vendor\\font-awesome\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\font-awesome\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\Site\\vendor\\font-awesome\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\font-awesome\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\Site\\vendor\\font-awesome\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\font-awesome\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\Site\\vendor\\font-awesome\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\font-awesome\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\Site\\vendor\\font-awesome\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\font-awesome\\webfonts\\fa-regular-400d41d.eot",
+      "PackagePath": "staticwebassets\\Site\\vendor\\font-awesome\\webfonts\\fa-regular-400d41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\font-awesome\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\Site\\vendor\\font-awesome\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\font-awesome\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\Site\\vendor\\font-awesome\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\font-awesome\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\Site\\vendor\\font-awesome\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\font-awesome\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\Site\\vendor\\font-awesome\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\font-awesome\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\Site\\vendor\\font-awesome\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\font-awesome\\webfonts\\fa-solid-900d41d.eot",
+      "PackagePath": "staticwebassets\\Site\\vendor\\font-awesome\\webfonts\\fa-solid-900d41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\fuelux\\js\\spinner.js",
+      "PackagePath": "staticwebassets\\Site\\vendor\\fuelux\\js\\spinner.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\fullcalendar\\fullcalendar.css",
+      "PackagePath": "staticwebassets\\Site\\vendor\\fullcalendar\\fullcalendar.css"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\fullcalendar\\fullcalendar.js",
+      "PackagePath": "staticwebassets\\Site\\vendor\\fullcalendar\\fullcalendar.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\gauge\\gauge.js",
+      "PackagePath": "staticwebassets\\Site\\vendor\\gauge\\gauge.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\gmaps\\gmaps.js",
+      "PackagePath": "staticwebassets\\Site\\vendor\\gmaps\\gmaps.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\hover\\hover.css",
+      "PackagePath": "staticwebassets\\Site\\vendor\\hover\\hover.css"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\intercooler-js\\intercooler.js",
+      "PackagePath": "staticwebassets\\Site\\vendor\\intercooler-js\\intercooler.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\ios7-switch\\ios7-switch.js",
+      "PackagePath": "staticwebassets\\Site\\vendor\\ios7-switch\\ios7-switch.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\isotope\\isotope.js",
+      "PackagePath": "staticwebassets\\Site\\vendor\\isotope\\isotope.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\jquery-appear\\jquery.appear.js",
+      "PackagePath": "staticwebassets\\Site\\vendor\\jquery-appear\\jquery.appear.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\jquery-browser-mobile\\jquery.browser.mobile.js",
+      "PackagePath": "staticwebassets\\Site\\vendor\\jquery-browser-mobile\\jquery.browser.mobile.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\jquery-cookie\\jquery.cookie.js",
+      "PackagePath": "staticwebassets\\Site\\vendor\\jquery-cookie\\jquery.cookie.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\jquery-idletimer\\idle-timer.js",
+      "PackagePath": "staticwebassets\\Site\\vendor\\jquery-idletimer\\idle-timer.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\jquery-maskedinput\\jquery.maskedinput.js",
+      "PackagePath": "staticwebassets\\Site\\vendor\\jquery-maskedinput\\jquery.maskedinput.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\jquery-mockjax\\jquery.mockjax.js",
+      "PackagePath": "staticwebassets\\Site\\vendor\\jquery-mockjax\\jquery.mockjax.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\jquery-nestable\\jquery.nestable.js",
+      "PackagePath": "staticwebassets\\Site\\vendor\\jquery-nestable\\jquery.nestable.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\jquery-placeholder\\jquery.placeholder.js",
+      "PackagePath": "staticwebassets\\Site\\vendor\\jquery-placeholder\\jquery.placeholder.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\jquery-sparkline\\jquery.sparkline.js",
+      "PackagePath": "staticwebassets\\Site\\vendor\\jquery-sparkline\\jquery.sparkline.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\jquery-ui\\images\\ui-icons_444444_256x240.png",
+      "PackagePath": "staticwebassets\\Site\\vendor\\jquery-ui\\images\\ui-icons_444444_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\jquery-ui\\images\\ui-icons_555555_256x240.png",
+      "PackagePath": "staticwebassets\\Site\\vendor\\jquery-ui\\images\\ui-icons_555555_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\jquery-ui\\images\\ui-icons_777620_256x240.png",
+      "PackagePath": "staticwebassets\\Site\\vendor\\jquery-ui\\images\\ui-icons_777620_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\jquery-ui\\images\\ui-icons_777777_256x240.png",
+      "PackagePath": "staticwebassets\\Site\\vendor\\jquery-ui\\images\\ui-icons_777777_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\jquery-ui\\images\\ui-icons_cc0000_256x240.png",
+      "PackagePath": "staticwebassets\\Site\\vendor\\jquery-ui\\images\\ui-icons_cc0000_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\jquery-ui\\images\\ui-icons_ffffff_256x240.png",
+      "PackagePath": "staticwebassets\\Site\\vendor\\jquery-ui\\images\\ui-icons_ffffff_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\jquery-ui\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\Site\\vendor\\jquery-ui\\jquery-ui.css"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\jquery-ui\\jquery-ui.js",
+      "PackagePath": "staticwebassets\\Site\\vendor\\jquery-ui\\jquery-ui.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\jquery-ui\\jquery-ui.theme.css",
+      "PackagePath": "staticwebassets\\Site\\vendor\\jquery-ui\\jquery-ui.theme.css"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\jquery-validation\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\Site\\vendor\\jquery-validation\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\jquery.easy-pie-chart\\jquery.easypiechart.js",
+      "PackagePath": "staticwebassets\\Site\\vendor\\jquery.easy-pie-chart\\jquery.easypiechart.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\jquery.lazyload\\jquery.lazyload.js",
+      "PackagePath": "staticwebassets\\Site\\vendor\\jquery.lazyload\\jquery.lazyload.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\Site\\vendor\\jquery\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\jqueryui-touch-punch\\jquery.ui.touch-punch.js",
+      "PackagePath": "staticwebassets\\Site\\vendor\\jqueryui-touch-punch\\jquery.ui.touch-punch.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\jqvmap\\data\\jquery.vmap.sampledata.js",
+      "PackagePath": "staticwebassets\\Site\\vendor\\jqvmap\\data\\jquery.vmap.sampledata.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\jqvmap\\jquery.vmap.js",
+      "PackagePath": "staticwebassets\\Site\\vendor\\jqvmap\\jquery.vmap.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\jqvmap\\jqvmap.css",
+      "PackagePath": "staticwebassets\\Site\\vendor\\jqvmap\\jqvmap.css"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\jqvmap\\maps\\continents\\jquery.vmap.africa.js",
+      "PackagePath": "staticwebassets\\Site\\vendor\\jqvmap\\maps\\continents\\jquery.vmap.africa.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\jqvmap\\maps\\continents\\jquery.vmap.asia.js",
+      "PackagePath": "staticwebassets\\Site\\vendor\\jqvmap\\maps\\continents\\jquery.vmap.asia.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\jqvmap\\maps\\continents\\jquery.vmap.australia.js",
+      "PackagePath": "staticwebassets\\Site\\vendor\\jqvmap\\maps\\continents\\jquery.vmap.australia.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\jqvmap\\maps\\continents\\jquery.vmap.europe.js",
+      "PackagePath": "staticwebassets\\Site\\vendor\\jqvmap\\maps\\continents\\jquery.vmap.europe.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\jqvmap\\maps\\continents\\jquery.vmap.north-america.js",
+      "PackagePath": "staticwebassets\\Site\\vendor\\jqvmap\\maps\\continents\\jquery.vmap.north-america.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\jqvmap\\maps\\continents\\jquery.vmap.south-america.js",
+      "PackagePath": "staticwebassets\\Site\\vendor\\jqvmap\\maps\\continents\\jquery.vmap.south-america.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\jqvmap\\maps\\jquery.vmap.world.js",
+      "PackagePath": "staticwebassets\\Site\\vendor\\jqvmap\\maps\\jquery.vmap.world.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\jstree\\jstree.js",
+      "PackagePath": "staticwebassets\\Site\\vendor\\jstree\\jstree.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\jstree\\themes\\default\\32px.png",
+      "PackagePath": "staticwebassets\\Site\\vendor\\jstree\\themes\\default\\32px.png"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\jstree\\themes\\default\\40px.png",
+      "PackagePath": "staticwebassets\\Site\\vendor\\jstree\\themes\\default\\40px.png"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\jstree\\themes\\default\\style.css",
+      "PackagePath": "staticwebassets\\Site\\vendor\\jstree\\themes\\default\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\jstree\\themes\\default\\throbber.gif",
+      "PackagePath": "staticwebassets\\Site\\vendor\\jstree\\themes\\default\\throbber.gif"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\liquid-meter\\liquid.meter.js",
+      "PackagePath": "staticwebassets\\Site\\vendor\\liquid-meter\\liquid.meter.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\magnific-popup\\jquery.magnific-popup.js",
+      "PackagePath": "staticwebassets\\Site\\vendor\\magnific-popup\\jquery.magnific-popup.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\magnific-popup\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\Site\\vendor\\magnific-popup\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\meteocons\\css\\meteocons.css",
+      "PackagePath": "staticwebassets\\Site\\vendor\\meteocons\\css\\meteocons.css"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\meteocons\\fonts\\meteoconsbc3c.eot",
+      "PackagePath": "staticwebassets\\Site\\vendor\\meteocons\\fonts\\meteoconsbc3c.eot"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\meteocons\\fonts\\meteoconsbc3c.svg",
+      "PackagePath": "staticwebassets\\Site\\vendor\\meteocons\\fonts\\meteoconsbc3c.svg"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\meteocons\\fonts\\meteoconsbc3c.ttf",
+      "PackagePath": "staticwebassets\\Site\\vendor\\meteocons\\fonts\\meteoconsbc3c.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\meteocons\\fonts\\meteoconsbc3c.woff",
+      "PackagePath": "staticwebassets\\Site\\vendor\\meteocons\\fonts\\meteoconsbc3c.woff"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\meteocons\\fonts\\meteoconsd41d.eot",
+      "PackagePath": "staticwebassets\\Site\\vendor\\meteocons\\fonts\\meteoconsd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\modernizr\\modernizr.js",
+      "PackagePath": "staticwebassets\\Site\\vendor\\modernizr\\modernizr.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\moment\\moment.js",
+      "PackagePath": "staticwebassets\\Site\\vendor\\moment\\moment.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\morris\\morris.css",
+      "PackagePath": "staticwebassets\\Site\\vendor\\morris\\morris.css"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\morris\\morris.js",
+      "PackagePath": "staticwebassets\\Site\\vendor\\morris\\morris.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\nanoscroller\\nanoscroller.js",
+      "PackagePath": "staticwebassets\\Site\\vendor\\nanoscroller\\nanoscroller.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\nprogress\\nprogress.js",
+      "PackagePath": "staticwebassets\\Site\\vendor\\nprogress\\nprogress.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\owl.carousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\Site\\vendor\\owl.carousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\owl.carousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\Site\\vendor\\owl.carousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\owl.carousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\Site\\vendor\\owl.carousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\owl.carousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\Site\\vendor\\owl.carousel\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\pnotify\\pnotify.custom.css",
+      "PackagePath": "staticwebassets\\Site\\vendor\\pnotify\\pnotify.custom.css"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\pnotify\\pnotify.custom.js",
+      "PackagePath": "staticwebassets\\Site\\vendor\\pnotify\\pnotify.custom.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\popper\\umd\\popper.min.js",
+      "PackagePath": "staticwebassets\\Site\\vendor\\popper\\umd\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\raphael\\raphael.js",
+      "PackagePath": "staticwebassets\\Site\\vendor\\raphael\\raphael.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\select2-bootstrap-theme\\select2-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Site\\vendor\\select2-bootstrap-theme\\select2-bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\select2\\css\\select2.css",
+      "PackagePath": "staticwebassets\\Site\\vendor\\select2\\css\\select2.css"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\select2\\js\\select2.js",
+      "PackagePath": "staticwebassets\\Site\\vendor\\select2\\js\\select2.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\simple-line-icons\\css\\simple-line-icons.css",
+      "PackagePath": "staticwebassets\\Site\\vendor\\simple-line-icons\\css\\simple-line-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\simple-line-icons\\fonts\\Simple-Line-Iconsb26c.eot",
+      "PackagePath": "staticwebassets\\Site\\vendor\\simple-line-icons\\fonts\\Simple-Line-Iconsb26c.eot"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\simple-line-icons\\fonts\\Simple-Line-Iconsb26c.svg",
+      "PackagePath": "staticwebassets\\Site\\vendor\\simple-line-icons\\fonts\\Simple-Line-Iconsb26c.svg"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\simple-line-icons\\fonts\\Simple-Line-Iconsb26c.ttf",
+      "PackagePath": "staticwebassets\\Site\\vendor\\simple-line-icons\\fonts\\Simple-Line-Iconsb26c.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\simple-line-icons\\fonts\\Simple-Line-Iconsb26c.woff",
+      "PackagePath": "staticwebassets\\Site\\vendor\\simple-line-icons\\fonts\\Simple-Line-Iconsb26c.woff"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\simple-line-icons\\fonts\\Simple-Line-Iconsb26c.woff2",
+      "PackagePath": "staticwebassets\\Site\\vendor\\simple-line-icons\\fonts\\Simple-Line-Iconsb26c.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\snap.svg\\snap.svg.js",
+      "PackagePath": "staticwebassets\\Site\\vendor\\snap.svg\\snap.svg.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\snazzy-themes\\snazzy.themes.js",
+      "PackagePath": "staticwebassets\\Site\\vendor\\snazzy-themes\\snazzy.themes.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\store2\\store2.js",
+      "PackagePath": "staticwebassets\\Site\\vendor\\store2\\store2.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\summernote\\font\\summernote.eot",
+      "PackagePath": "staticwebassets\\Site\\vendor\\summernote\\font\\summernote.eot"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\summernote\\font\\summernote.ttf",
+      "PackagePath": "staticwebassets\\Site\\vendor\\summernote\\font\\summernote.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\summernote\\font\\summernote.woff",
+      "PackagePath": "staticwebassets\\Site\\vendor\\summernote\\font\\summernote.woff"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\summernote\\font\\summernote.woff2",
+      "PackagePath": "staticwebassets\\Site\\vendor\\summernote\\font\\summernote.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\summernote\\font\\summernoted41d.eot",
+      "PackagePath": "staticwebassets\\Site\\vendor\\summernote\\font\\summernoted41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\summernote\\summernote-bs4.css",
+      "PackagePath": "staticwebassets\\Site\\vendor\\summernote\\summernote-bs4.css"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\vendor\\summernote\\summernote-bs4.js",
+      "PackagePath": "staticwebassets\\Site\\vendor\\summernote\\summernote-bs4.js"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\video\\presentation654f.mp4",
+      "PackagePath": "staticwebassets\\Site\\video\\presentation654f.mp4"
+    },
+    {
+      "Id": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\JoinDataTable\\JoinDataTable.WebUI\\wwwroot\\Site\\www.google-analytics.com\\analytics.js",
+      "PackagePath": "staticwebassets\\Site\\www.google-analytics.com\\analytics.js"
     },
     {
       "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.JoinDataTable.WebUI.Microsoft.AspNetCore.StaticWebAssets.props",

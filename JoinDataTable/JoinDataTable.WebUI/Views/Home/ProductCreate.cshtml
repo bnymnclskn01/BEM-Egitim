@@ -1,0 +1,113 @@
+﻿
+@{
+    ViewData["Title"] = "ProductCreate";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="row">
+	<div class="col">
+		<section class="card">
+			<header class="card-header">
+				<div class="card-actions">
+					<a href="#" class="card-action card-action-toggle" data-card-toggle></a>
+				</div>
+
+				<h2 class="card-title">Yeni Ürün Ekle</h2>
+			</header>
+			<div class="card-body">
+				<form class="form-horizontal form-bordered" method="post" action="/Home/ProductCreate" enctype="multipart/form-data">
+					<div class="form-group row pb-4">
+						<label class="col-lg-4 control-label text-lg-end pt-2" for="inputDefault">Ürün Kategorisi</label>
+						<div class="col-lg-8">
+							@Html.DropDownList("ProductCategoryID", null, htmlAttributes: new { @class = "form-control" })
+						</div>
+					</div>
+					<div class="form-group row pb-4">
+						<label class="col-lg-4 control-label text-lg-end pt-2" for="inputDefault">Ürün Adı</label>
+						<div class="col-lg-8">
+							<input type="text" name="Title" class="form-control" required placeholder="Lütfen Ürün Adını Giriniz" />
+						</div>
+					</div>
+					<div class="form-group row pb-4">
+						<label class="col-lg-4 control-label text-lg-end pt-2" for="inputDefault">Ürün Resimi</label>
+						<div class="col-lg-8">
+							<input type="file" name="ImageUrl" class="form-control" required />
+						</div>
+					</div>
+					<div class="form-group row pb-4">
+						<label class="col-lg-4 control-label text-lg-end pt-2" for="inputDefault">Ürün Video</label>
+						<div class="col-lg-8">
+							<input type="file" name="VideoUrl" class="form-control" required />
+						</div>
+					</div>
+					<div class="form-group row pb-4">
+						<label class="col-lg-4 control-label text-lg-end pt-2" for="inputDefault">Ürün PDF</label>
+						<div class="col-lg-8">
+							<input type="file" name="PdfUrl" class="form-control" required />
+						</div>
+					</div>
+					<div class="form-group row pb-4">
+						<label class="col-lg-4 control-label text-lg-end pt-2" for="inputDefault">Ürün Açıklaması</label>
+						<div class="col-lg-8">
+							<textarea class="form-control" rows="10" name="Description" required placeholder="Lütfen Açıklama Giriniz"></textarea>
+						</div>
+					</div>
+					<div class="form-group row pb-4">
+						<label class="col-lg-4 control-label text-lg-end pt-2" for="inputDefault">Sayfa Adı</label>
+						<div class="col-lg-8">
+							<input type="text" name="seoTitle" class="form-control" required placeholder="Lütfen Sayfa Adını Giriniz" />
+						</div>
+					</div>
+					<div class="form-group row pb-4">
+						<label class="col-lg-4 control-label text-lg-end pt-2" for="inputDefault">Ürün Anahtar Kelime</label>
+						<div class="col-lg-8">
+							<textarea class="form-control" rows="10" name="seoKeywords" required placeholder="Lütfen Anahtar Kelime Giriniz"></textarea>
+						</div>
+					</div>
+					<div class="form-group row pb-4">
+						<label class="col-lg-4 control-label text-lg-end pt-2" for="inputDefault">Sayfa Açıklaması</label>
+						<div class="col-lg-8">
+							<input type="text" name="seoDescription" class="form-control" required placeholder="Lütfen Sayfa Açıklaması Giriniz" />
+						</div>
+					</div>
+					<div class="form-group row pb-4">
+						<label class="col-lg-4 control-label text-lg-end pt-2" for="inputDefault">Sayfa Yazarı</label>
+						<div class="col-lg-8">
+							<input type="text" name="seoAuthor" class="form-control" required placeholder="Lütfen Sayfa Yazarını Giriniz" />
+						</div>
+					</div>
+					<div class="form-group row pb-4">
+						<label class="col-lg-4 control-label text-lg-end pt-2" for="inputDefault">Sayfa Kopyalanamaz Yazısı</label>
+						<div class="col-lg-8">
+							<input type="text" name="seoCopyright" class="form-control" required placeholder="Lütfen Sayfa Kopyalanamaz Yazısı Giriniz" />
+						</div>
+					</div>
+					<div class="form-group row pb-4">
+						<label class="col-lg-4 control-label text-lg-end pt-2" for="inputDefault">Sayfa Dizaynır</label>
+						<div class="col-lg-8">
+							<input type="text" name="seoDesign" class="form-control" required placeholder="Lütfen Sayfa Dizaynır Giriniz" />
+						</div>
+					</div>
+					<div class="form-group row pb-4">
+						<label class="col-lg-4 control-label text-lg-end pt-2" for="inputDefault">Sayfa Mail Adresi</label>
+						<div class="col-lg-8">
+							<input type="email" name="seoReply" class="form-control" required placeholder="Lütfen Sayfa Mail Adresi Giriniz" />
+						</div>
+					</div>
+					<div class="form-group row pb-4">
+						<label class="col-lg-4 control-label text-lg-end pt-2" for="inputDefault">Site Konusu</label>
+						<div class="col-lg-8">
+							<input type="email" name="seoSubject" class="form-control" required placeholder="Lütfen Site Konusu Giriniz" />
+						</div>
+					</div>
+					<div class="form-group row pb-4">
+						<label class="col-lg-4 control-label text-lg-end pt-2" for="inputDefault">İşlem Butonları</label>
+						<div class="col-lg-8">
+							<button type="submit" class="btn btn-outline-success"><i class="fa fa-check"></i> Yeni Ürün Ekle</button>
+							<a href="/Home/ProductList" class="btn btn-outline-dark"><i class="fa fa-reply-all"></i> Listeye Geri Dön</a>
+						</div>
+					</div>
+				</form>
+			</div>
+		</section>
+	</div>
+</div>

@@ -1,0 +1,2 @@
+(function($){'use strict';$('select[name="orderStatus"]').select2({minimumResultsForSearch:-1,templateResult:formatOrderStatus,templateSelection:formatOrderStatus,theme:'bootstrap'});function formatOrderStatus(status){if(!status.id){return status.text;}
+var $status=$('<span class="ecommerce-status '+status.id+'">'+status.text+'</span>');return $status;};}(jQuery));
