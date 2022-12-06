@@ -1,0 +1,10 @@
+﻿@model IEnumerable<Fatih.Karsli.Models.Model.About>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@foreach (var item in Model)
+{
+    <h1>@item.Title</h1>
+}
