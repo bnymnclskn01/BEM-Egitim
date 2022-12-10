@@ -1,0 +1,12 @@
+C:\Users\ever_\OneDrive\Belgeler\GitHub\BEM-Egitim\ECommerce\ECommerce.EntityLayer\bin\Debug\net5.0\ECommerce.EntityLayer.deps.json
+C:\Users\ever_\OneDrive\Belgeler\GitHub\BEM-Egitim\ECommerce\ECommerce.EntityLayer\bin\Debug\net5.0\ECommerce.EntityLayer.dll
+C:\Users\ever_\OneDrive\Belgeler\GitHub\BEM-Egitim\ECommerce\ECommerce.EntityLayer\bin\Debug\net5.0\ECommerce.EntityLayer.pdb
+C:\Users\ever_\OneDrive\Belgeler\GitHub\BEM-Egitim\ECommerce\ECommerce.EntityLayer\obj\Debug\net5.0\ECommerce.EntityLayer.csproj.AssemblyReference.cache
+C:\Users\ever_\OneDrive\Belgeler\GitHub\BEM-Egitim\ECommerce\ECommerce.EntityLayer\obj\Debug\net5.0\ECommerce.EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ever_\OneDrive\Belgeler\GitHub\BEM-Egitim\ECommerce\ECommerce.EntityLayer\obj\Debug\net5.0\ECommerce.EntityLayer.AssemblyInfoInputs.cache
+C:\Users\ever_\OneDrive\Belgeler\GitHub\BEM-Egitim\ECommerce\ECommerce.EntityLayer\obj\Debug\net5.0\ECommerce.EntityLayer.AssemblyInfo.cs
+C:\Users\ever_\OneDrive\Belgeler\GitHub\BEM-Egitim\ECommerce\ECommerce.EntityLayer\obj\Debug\net5.0\ECommerce.EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\ever_\OneDrive\Belgeler\GitHub\BEM-Egitim\ECommerce\ECommerce.EntityLayer\obj\Debug\net5.0\ECommerce.EntityLayer.dll
+C:\Users\ever_\OneDrive\Belgeler\GitHub\BEM-Egitim\ECommerce\ECommerce.EntityLayer\obj\Debug\net5.0\refint\ECommerce.EntityLayer.dll
+C:\Users\ever_\OneDrive\Belgeler\GitHub\BEM-Egitim\ECommerce\ECommerce.EntityLayer\obj\Debug\net5.0\ECommerce.EntityLayer.pdb
+C:\Users\ever_\OneDrive\Belgeler\GitHub\BEM-Egitim\ECommerce\ECommerce.EntityLayer\obj\Debug\net5.0\ref\ECommerce.EntityLayer.dll
