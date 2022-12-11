@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Uj1a/n9lfAw2fUOzIlu4fOk9JsgMcjmoTRrrKMtRyVzExFupCFDg0mHv6t4cVg4E8+HdPzBL1JJJYvxq+PSXiQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\ECommerce\\ECommerce.WepApi\\ECommerce.WepApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ever_\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\ever_\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\ever_\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\ever_\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\ever_\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\ever_\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -10,3 +10,9 @@ C:\Users\ever_\OneDrive\Belgeler\GitHub\BEM-Egitim\ECommerce\ECommerce.DataAcces
 C:\Users\ever_\OneDrive\Belgeler\GitHub\BEM-Egitim\ECommerce\ECommerce.DataAccessLayer\obj\Debug\net5.0\refint\ECommerce.DataAccessLayer.dll
 C:\Users\ever_\OneDrive\Belgeler\GitHub\BEM-Egitim\ECommerce\ECommerce.DataAccessLayer\obj\Debug\net5.0\ECommerce.DataAccessLayer.pdb
 C:\Users\ever_\OneDrive\Belgeler\GitHub\BEM-Egitim\ECommerce\ECommerce.DataAccessLayer\obj\Debug\net5.0\ref\ECommerce.DataAccessLayer.dll
+C:\Users\ever_\OneDrive\Belgeler\GitHub\BEM-Egitim\ECommerce\ECommerce.DataAccessLayer\bin\Debug\net5.0\ECommerce.DataAccessLayer.runtimeconfig.json
+C:\Users\ever_\OneDrive\Belgeler\GitHub\BEM-Egitim\ECommerce\ECommerce.DataAccessLayer\bin\Debug\net5.0\ECommerce.DataAccessLayer.runtimeconfig.dev.json
+C:\Users\ever_\OneDrive\Belgeler\GitHub\BEM-Egitim\ECommerce\ECommerce.DataAccessLayer\bin\Debug\net5.0\ECommerce.EntityLayer.dll
+C:\Users\ever_\OneDrive\Belgeler\GitHub\BEM-Egitim\ECommerce\ECommerce.DataAccessLayer\bin\Debug\net5.0\ECommerce.EntityLayer.pdb
+C:\Users\ever_\OneDrive\Belgeler\GitHub\BEM-Egitim\ECommerce\ECommerce.DataAccessLayer\obj\Debug\net5.0\ECommerce.DataAccessLayer.csproj.CopyComplete
+C:\Users\ever_\OneDrive\Belgeler\GitHub\BEM-Egitim\ECommerce\ECommerce.DataAccessLayer\obj\Debug\net5.0\ECommerce.DataAccessLayer.genruntimeconfig.cache

@@ -42,3 +42,4 @@ C:\Users\ever_\OneDrive\Belgeler\GitHub\BEM-Egitim\ECommerce\ECommerce.WebUI\obj
 C:\Users\ever_\OneDrive\Belgeler\GitHub\BEM-Egitim\ECommerce\ECommerce.WebUI\obj\Debug\net5.0\ECommerce.WebUI.genruntimeconfig.cache
 C:\Users\ever_\OneDrive\Belgeler\GitHub\BEM-Egitim\ECommerce\ECommerce.WebUI\obj\Debug\net5.0\ref\ECommerce.WebUI.dll
 C:\Users\ever_\OneDrive\Belgeler\GitHub\BEM-Egitim\ECommerce\ECommerce.WebUI\obj\Debug\net5.0\ECommerce.WebUI.csproj.CopyComplete
+C:\Users\ever_\OneDrive\Belgeler\GitHub\BEM-Egitim\ECommerce\ECommerce.WebUI\obj\Debug\net5.0\ECommerce.WebUI.MvcApplicationPartsAssemblyInfo.cs

@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33110.190
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ECommerce.EntityLayer", "ECommerce.EntityLayer\ECommerce.EntityLayer.csproj", "{EE6725EB-3D6C-44CB-9F73-21102B351643}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ECommerce.EntityLayer", "ECommerce.EntityLayer\ECommerce.EntityLayer.csproj", "{EE6725EB-3D6C-44CB-9F73-21102B351643}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ECommerce.DataAccessLayer", "ECommerce.DataAccessLayer\ECommerce.DataAccessLayer.csproj", "{7B62B9C2-3186-424A-80C3-F488CFA5B7E6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ECommerce.DataAccessLayer", "ECommerce.DataAccessLayer\ECommerce.DataAccessLayer.csproj", "{7B62B9C2-3186-424A-80C3-F488CFA5B7E6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ECommerce.BusinessLayer", "ECommerce.BusinessLayer\ECommerce.BusinessLayer.csproj", "{D4EE7723-FD18-4FE5-BE4D-B05F9A8A54C7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ECommerce.BusinessLayer", "ECommerce.BusinessLayer\ECommerce.BusinessLayer.csproj", "{D4EE7723-FD18-4FE5-BE4D-B05F9A8A54C7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ECommerce.WebUI", "ECommerce.WebUI\ECommerce.WebUI.csproj", "{992DC8DD-5A8B-4ABD-A116-CC7DA2AB83D1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ECommerce.WebUI", "ECommerce.WebUI\ECommerce.WebUI.csproj", "{992DC8DD-5A8B-4ABD-A116-CC7DA2AB83D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ECommerce.WepApi", "ECommerce.WepApi\ECommerce.WepApi.csproj", "{FC2115D3-2D43-4DCE-8C38-25F4EDB5146E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{992DC8DD-5A8B-4ABD-A116-CC7DA2AB83D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{992DC8DD-5A8B-4ABD-A116-CC7DA2AB83D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{992DC8DD-5A8B-4ABD-A116-CC7DA2AB83D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC2115D3-2D43-4DCE-8C38-25F4EDB5146E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC2115D3-2D43-4DCE-8C38-25F4EDB5146E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC2115D3-2D43-4DCE-8C38-25F4EDB5146E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC2115D3-2D43-4DCE-8C38-25F4EDB5146E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

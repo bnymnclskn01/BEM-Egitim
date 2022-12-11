@@ -2684,6 +2684,33 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
+      },
+      "ECommerce.DataAccessLayer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "ECommerce.EntityLayer": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "5.0.17",
+          "Microsoft.EntityFrameworkCore.SqlServer": "5.0.17",
+          "MySql.Data.EntityFrameworkCore": "8.0.22",
+          "Oracle.EntityFrameworkCore": "5.21.61"
+        },
+        "compile": {
+          "bin/placeholder/ECommerce.DataAccessLayer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ECommerce.DataAccessLayer.dll": {}
+        }
+      },
+      "ECommerce.EntityLayer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/ECommerce.EntityLayer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ECommerce.EntityLayer.dll": {}
+        }
       }
     }
   },
@@ -8271,10 +8298,22 @@
         "system.xml.xpath.xmldocument.4.0.1.nupkg.sha512",
         "system.xml.xpath.xmldocument.nuspec"
       ]
+    },
+    "ECommerce.DataAccessLayer/1.0.0": {
+      "type": "project",
+      "path": "../ECommerce.DataAccessLayer/ECommerce.DataAccessLayer.csproj",
+      "msbuildProject": "../ECommerce.DataAccessLayer/ECommerce.DataAccessLayer.csproj"
+    },
+    "ECommerce.EntityLayer/1.0.0": {
+      "type": "project",
+      "path": "../ECommerce.EntityLayer/ECommerce.EntityLayer.csproj",
+      "msbuildProject": "../ECommerce.EntityLayer/ECommerce.EntityLayer.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
+      "ECommerce.DataAccessLayer >= 1.0.0",
+      "ECommerce.EntityLayer >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 5.0.17",
       "Microsoft.EntityFrameworkCore.Design >= 5.0.17",
       "Microsoft.EntityFrameworkCore.SqlServer >= 5.0.17",
@@ -8318,7 +8357,14 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\ECommerce\\ECommerce.DataAccessLayer\\ECommerce.DataAccessLayer.csproj": {
+              "projectPath": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\ECommerce\\ECommerce.DataAccessLayer\\ECommerce.DataAccessLayer.csproj"
+            },
+            "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\ECommerce\\ECommerce.EntityLayer\\ECommerce.EntityLayer.csproj": {
+              "projectPath": "C:\\Users\\ever_\\OneDrive\\Belgeler\\GitHub\\BEM-Egitim\\ECommerce\\ECommerce.EntityLayer\\ECommerce.EntityLayer.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

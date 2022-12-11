@@ -19,4 +19,9 @@
     <PackageReference Include="Oracle.EntityFrameworkCore" Version="5.21.61" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\ECommerce.DataAccessLayer\ECommerce.DataAccessLayer.csproj" />
+    <ProjectReference Include="..\ECommerce.EntityLayer\ECommerce.EntityLayer.csproj" />
+  </ItemGroup>
+
 </Project>

@@ -10,3 +10,11 @@ C:\Users\ever_\OneDrive\Belgeler\GitHub\BEM-Egitim\ECommerce\ECommerce.BusinessL
 C:\Users\ever_\OneDrive\Belgeler\GitHub\BEM-Egitim\ECommerce\ECommerce.BusinessLayer\obj\Debug\net5.0\refint\ECommerce.BusinessLayer.dll
 C:\Users\ever_\OneDrive\Belgeler\GitHub\BEM-Egitim\ECommerce\ECommerce.BusinessLayer\obj\Debug\net5.0\ECommerce.BusinessLayer.pdb
 C:\Users\ever_\OneDrive\Belgeler\GitHub\BEM-Egitim\ECommerce\ECommerce.BusinessLayer\obj\Debug\net5.0\ref\ECommerce.BusinessLayer.dll
+C:\Users\ever_\OneDrive\Belgeler\GitHub\BEM-Egitim\ECommerce\ECommerce.BusinessLayer\bin\Debug\net5.0\ECommerce.BusinessLayer.runtimeconfig.json
+C:\Users\ever_\OneDrive\Belgeler\GitHub\BEM-Egitim\ECommerce\ECommerce.BusinessLayer\bin\Debug\net5.0\ECommerce.BusinessLayer.runtimeconfig.dev.json
+C:\Users\ever_\OneDrive\Belgeler\GitHub\BEM-Egitim\ECommerce\ECommerce.BusinessLayer\bin\Debug\net5.0\ECommerce.DataAccessLayer.dll
+C:\Users\ever_\OneDrive\Belgeler\GitHub\BEM-Egitim\ECommerce\ECommerce.BusinessLayer\bin\Debug\net5.0\ECommerce.EntityLayer.dll
+C:\Users\ever_\OneDrive\Belgeler\GitHub\BEM-Egitim\ECommerce\ECommerce.BusinessLayer\bin\Debug\net5.0\ECommerce.DataAccessLayer.pdb
+C:\Users\ever_\OneDrive\Belgeler\GitHub\BEM-Egitim\ECommerce\ECommerce.BusinessLayer\bin\Debug\net5.0\ECommerce.EntityLayer.pdb
+C:\Users\ever_\OneDrive\Belgeler\GitHub\BEM-Egitim\ECommerce\ECommerce.BusinessLayer\obj\Debug\net5.0\ECommerce.BusinessLayer.csproj.CopyComplete
+C:\Users\ever_\OneDrive\Belgeler\GitHub\BEM-Egitim\ECommerce\ECommerce.BusinessLayer\obj\Debug\net5.0\ECommerce.BusinessLayer.genruntimeconfig.cache
