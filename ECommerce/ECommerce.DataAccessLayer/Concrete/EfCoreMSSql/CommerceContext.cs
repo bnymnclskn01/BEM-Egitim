@@ -12,7 +12,7 @@ namespace ECommerce.DataAccessLayer.Concrete.EfCoreMSSql
     {
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer(@"Server=(localdb)\MSSQLLocalDB;Database=ShopDb;integrated security=true;");
+            optionsBuilder.UseSqlServer(@"Server=SOFTWARE\SQLEXPRESS;Database=Ecommerce;Integrated Security=True;");
         }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
