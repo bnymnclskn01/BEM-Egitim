@@ -60,6 +60,9 @@ namespace ECommerce.WebUI
             services.AddScoped<ICategoryService, CategoryManager>();
             services.AddScoped<IOrderService, OrderManager>();
             services.AddMvc();
+            services.AddRazorPages();
+            services.AddMvcCore();
+            services.AddRouting();
             services.ConfigureApplicationCookie(options =>
             {
                 options.LogoutPath = "/account/logout";
@@ -108,7 +111,7 @@ namespace ECommerce.WebUI
                     pattern: "{controller=Home}/{action=Index}/{id?}");
             });
 
-            SeedIdentity.Seed(userManager,roleManager,Configuration).Wait();
+            //SeedIdentity.Seed(userManager,roleManager,Configuration).Wait();
         }
     }
 }

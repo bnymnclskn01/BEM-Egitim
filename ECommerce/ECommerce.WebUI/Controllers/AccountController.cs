@@ -24,11 +24,13 @@ namespace ECommerce.WebUI.Controllers
             _cartService = cartService;
         }
 
+        [Route("Account/Register")]
+        [HttpGet]
         public IActionResult Register()
         {
             return View(new Models.RegisterModel());
         }
-
+        [Route("Account/Register")]
         [HttpPost]
         public async Task<IActionResult> Register(Models.RegisterModel model)
         {
@@ -59,8 +61,52 @@ namespace ECommerce.WebUI.Controllers
                     Css = "warning"
                 });
                 ModelState.AddModelError("", "Bilinmeyen Bir Hata Oluştu Lütfen Tekrar Deneyiniz");
+            }
+            return View(model);
+        }
+
+        public IActionResult Login(string ReturnUrl=null)
+        {
+            return View(new Models.LoginModel()
+            {
+                ReturnUrl = ReturnUrl,
+            });
+        }
+        [HttpPost]
+        public async Task<IActionResult> Login(Models.LoginModel model)
+        {
+            if (!ModelState.IsValid)
+            {
                 return View(model);
             }
+            var user = await _userManager.FindByEmailAsync(model.Email);
+            if (user == null)
+            {
+                ModelState.AddModelError("", "Bu E-posta adresi ile daha önceden hesap oluşturulmamıştır. Lütfen hesabınız yoksa kayıt oluşturunuz.");
+                return View(model);
+            }
+            if(!await _userManager.IsEmailConfirmedAsync(user))
+            {
+                ModelState.AddModelError("", "Lütfen hesabınızı email ile onaylayınız.");
+                return View(model);
+            }
+            var result = await _signInManager.PasswordSignInAsync(user, model.Password, true, false);
+            if (result.Succeeded)
+            {
+                return Redirect(model.ReturnUrl ?? "~/");
+            }
+            ModelState.AddModelError("", "Email veya parola yanlış girdiniz. Lütfen tekrar deneyiniz.");
+            return View(model);
+        }
+        public async Task<IActionResult> Logout()
+        {
+            await _signInManager.SignOutAsync();
+            TempData.Put("message", new Models.ResultMessage()
+            {
+                Title="Oturum Kapatıldı",
+                Message="Hesabınız güvenli bir şekilde sonlandırıldı",
+                Css="Warning"
+            });
         }
     }
 }
