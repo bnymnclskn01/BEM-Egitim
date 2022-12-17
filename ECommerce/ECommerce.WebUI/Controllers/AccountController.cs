@@ -107,6 +107,7 @@ namespace ECommerce.WebUI.Controllers
                 Message="Hesabınız güvenli bir şekilde sonlandırıldı",
                 Css="Warning"
             });
+            return Redirect("~/");
         }
     }
 }
