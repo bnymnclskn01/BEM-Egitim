@@ -24,7 +24,6 @@ namespace ECommerce.WebUI.Controllers
             _cartService = cartService;
         }
 
-        [Route("Account/Register")]
         [HttpGet]
         public IActionResult Register()
         {
@@ -65,7 +64,7 @@ namespace ECommerce.WebUI.Controllers
             return View(model);
         }
 
-        public IActionResult Login(string ReturnUrl=null)
+        public IActionResult Login(string ReturnUrl = null)
         {
             return View(new Models.LoginModel()
             {
@@ -85,7 +84,7 @@ namespace ECommerce.WebUI.Controllers
                 ModelState.AddModelError("", "Bu E-posta adresi ile daha önceden hesap oluşturulmamıştır. Lütfen hesabınız yoksa kayıt oluşturunuz.");
                 return View(model);
             }
-            if(!await _userManager.IsEmailConfirmedAsync(user))
+            if (!await _userManager.IsEmailConfirmedAsync(user))
             {
                 ModelState.AddModelError("", "Lütfen hesabınızı email ile onaylayınız.");
                 return View(model);
@@ -103,11 +102,98 @@ namespace ECommerce.WebUI.Controllers
             await _signInManager.SignOutAsync();
             TempData.Put("message", new Models.ResultMessage()
             {
-                Title="Oturum Kapatıldı",
-                Message="Hesabınız güvenli bir şekilde sonlandırıldı",
-                Css="Warning"
+                Title = "Oturum Kapatıldı",
+                Message = "Hesabınız güvenli bir şekilde sonlandırıldı",
+                Css = "Warning"
             });
             return Redirect("~/");
+        }
+
+        public async Task<IActionResult> ConfirmEmail(string userID, string Token)
+        {
+            if (userID == null || Token == null)
+            {
+                TempData.Put("message", new ResultMessage()
+                {
+                    Title = "Hesap Onayı",
+                    Message = "Hesap onayı için bilgileriniz yanlış",
+                    Css = "danger"
+                }); ;
+                return Redirect("~/");
+            }
+            else
+            {
+                var user = await _userManager.FindByIdAsync(userID);
+                if (user != null)
+                {
+                    var result = await _userManager.ConfirmEmailAsync(user, Token);
+                    if (result.Succeeded)
+                    {
+                        _cartService.InitializeCart(user.Id);
+                        TempData.Put("message", new ResultMessage()
+                        {
+                            Title = "Hesap Onayı",
+                            Message = "Hesabınız başarıyla onaylanmıştır",
+                            Css = "success"
+                        });
+                        return RedirectToAction(nameof(Login));
+                    }
+                }
+                else
+                {
+                    TempData.Put("message", new ResultMessage()
+                    {
+                        Title = "Hesap Onayı",
+                        Message = "Hesabınız onaylanamadı.",
+                        Css = "danger"
+                    });
+                    return View();
+                }
+                return View();
+            }
+        }
+
+        public IActionResult ForgotPassword()
+        {
+            return View();
+        }
+        [HttpPost]
+        public async Task<IActionResult> ForgotPassword(string Email)
+        {
+            if (string.IsNullOrEmpty(Email))
+            {
+                TempData.Put("message", new ResultMessage()
+                {
+                    Title = "Şifremi Unuttum",
+                    Message = "Bilgileriniz Hatalı",
+                    Css = "danger"
+                });
+                return View();
+            }
+            var user = await _userManager.FindByEmailAsync(Email);
+            if (user == null) 
+            {
+                TempData.Put("message", new ResultMessage()
+                {
+                    Title="Şifremi Unuttum",
+                    Message="E-posta adresi ile bir kullanıcı bulunamadı",
+                    Css="danger"
+                });
+                return View();
+            }
+            var code = await _userManager.GeneratePasswordResetTokenAsync(user);
+            var callbackUrl = Url.Action("ResetPassword", "Account", new
+            {
+                token = "code"
+            });
+            await _emailSender.SendEmailAsync(Email, "Şifremi Unuttum", $"Parolanızı yenilemek için linke <a href='#'>Tıklayınız</a>");
+            TempData.Put("message", new ResultMessage()
+            {
+                Title="Şifremi Unuttum",
+                Message="Parolanızı yenilemek için hesabınıza mail gönderildi",
+                Css="warning"
+            });
+            return RedirectToAction(nameof(Login));
         }
     }
 }
