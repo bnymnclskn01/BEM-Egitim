@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace ECommerce.BusinessLayer.Abstract
 {
-    public interface IProductService
+    public interface IProductService : IValidator<Product>
     {
         Product GetById(Guid ID);
         Product GetByIdWithCategories(Guid ID);

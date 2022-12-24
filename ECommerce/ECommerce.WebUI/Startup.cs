@@ -1,6 +1,7 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Net;
 using System.Threading.Tasks;
 using ECommerce.BusinessLayer.Abstract;
 using ECommerce.BusinessLayer.Concrete;
@@ -13,6 +14,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Identity.UI.Services;
+using Microsoft.AspNetCore.Routing;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
@@ -103,12 +105,42 @@ namespace ECommerce.WebUI
             app.UseAuthorization();
             app.UseAuthentication();
             app.UseStaticFiles();
-
-            app.UseEndpoints(endpoints =>
+            app.UseMvc(routes =>
             {
-                endpoints.MapControllerRoute(
-                    name: "default",
-                    pattern: "{controller=Home}/{action=Index}/{id?}");
+                routes.MapRoute(
+                    name: "adminProducts",
+                    template: "Admin/ProductList",
+                    defaults: new { controller = "Admin", action = "ProductList" });
+                
+                routes.MapRoute(
+                    name: "adminProductsEdit",
+                    template: "admin/EditProducts/{id}",
+                    defaults: new { controller = "Admin", action = "EditProduct" });
+
+                routes.MapRoute(
+                    name: "adminProductsCreate",
+                    template: "Admin/CreateProduct",
+                    defaults: new { controller = "Admin", action = "CreateProduct" });
+
+                routes.MapRoute(
+                    name: "adminCategoryDelete",
+                    template: "Admin/DeleteFromCategory/{id}",
+                    defaults: new { controller = "Admin", action = "DeleteFromCategory" });
+
+                routes.MapRoute(
+                    name: "adminProductsDelete",
+                    template: "Admin/DeleteProduct/{id}",
+                    defaults: new { controller = "Admin", action = "DeleteProduct" });
+
+                routes.MapRoute(
+                    name: "adminProductsEdit",
+                    template: "admin/CreateProduct",
+                    defaults: new { controller = "Admin", action = "CreateProduct" });
+
+                routes.MapRoute(
+                    name: "defaults",
+                    template: "Home/Index",
+                    defaults: new { controller = "Home", action = "Index" });
             });
 
             //SeedIdentity.Seed(userManager,roleManager,Configuration).Wait();
