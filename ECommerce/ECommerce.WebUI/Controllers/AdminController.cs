@@ -11,7 +11,6 @@ using System.Threading.Tasks;
 
 namespace ECommerce.WebUI.Controllers
 {
-    [Authorize("admin")]
     public class AdminController : Controller
     {
         private IProductService _productService;
@@ -35,6 +34,7 @@ namespace ECommerce.WebUI.Controllers
         {
             return View(new ProductModel());
         }
+
         [HttpPost]
         public IActionResult CreateProduct(ProductModel model)
         {
@@ -78,7 +78,7 @@ namespace ECommerce.WebUI.Controllers
             return View(model);
         }
         [HttpPost]
-        public async Task<IActionResult> EditProduct(ProductModel model, Guid[] categoryIds, IFormFile file)
+        public IActionResult EditProduct(ProductModel model, Guid[] categoryIds, IFormFile file)
         {
             if (ModelState.IsValid)
             {
@@ -92,15 +92,28 @@ namespace ECommerce.WebUI.Controllers
                 entity.Price = model.Price;
                 if (file != null)
                 {
-                    entity.ImageUrl = file.FileName;
-                    var path = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot\\img", file.FileName);
-                    using (var stream = new FileStream(path, FileMode.Create))
+                    if (System.IO.File.Exists("wwwroot/img/" + entity.ImageUrl))
                     {
-                        await file.CopyToAsync(stream);
+                        System.IO.File.Delete("wwwroot/img/" + entity.ImageUrl);
                     }
+                    var extension = Path.GetExtension(file.FileName).Trim('.').ToLower();
+                    if (!(new[] { "jpg", "png", "jpeg" }.Contains(extension)))
+                    {
+                        ViewData["Hata"] = "File extension is incorrect, jpg, jpeg, png format files are accepted.";
+                        return View(model);
+                    }
+                    var local_image_dir = $"wwwroot/img/";
+                    var local_image_path = $"{local_image_dir}/{file.FileName}";
+                    if (!Directory.Exists(Path.Combine(local_image_dir)))
+                        Directory.CreateDirectory(Path.Combine(local_image_dir));
+                    using (Stream fileStream = new FileStream(local_image_path, FileMode.Create))
+                    {
+                        file.CopyTo(fileStream);
+                    }
+                    entity.ImageUrl = $"{file.FileName}";
                 }
                 _productService.Update(entity, categoryIds);
-                return View(model);
+                return RedirectToAction(nameof(ProductList));
             }
             return View(model);
         }

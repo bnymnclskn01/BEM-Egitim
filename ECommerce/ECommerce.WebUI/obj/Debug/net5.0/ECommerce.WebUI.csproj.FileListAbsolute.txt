@@ -203,3 +203,7 @@ C:\Users\ever_\OneDrive\Belgeler\GitHub\BEM-Egitim\ECommerce\ECommerce.WebUI\obj
 C:\Users\ever_\OneDrive\Belgeler\GitHub\BEM-Egitim\ECommerce\ECommerce.WebUI\obj\Debug\net5.0\Razor\Views\Shared\_partialNavBar.cshtml.g.cs
 C:\Users\ever_\OneDrive\Belgeler\GitHub\BEM-Egitim\ECommerce\ECommerce.WebUI\obj\Debug\net5.0\Razor\Views\Shared\_partialScripts.cshtml.g.cs
 C:\Users\ever_\OneDrive\Belgeler\GitHub\BEM-Egitim\ECommerce\ECommerce.WebUI\obj\Debug\net5.0\Razor\Views\Shared\_partialSideBar.cshtml.g.cs
+C:\Users\ever_\OneDrive\Belgeler\GitHub\BEM-Egitim\ECommerce\ECommerce.WebUI\obj\Debug\net5.0\Razor\Views\Admin\ProductList.cshtml.g.cs
+C:\Users\ever_\OneDrive\Belgeler\GitHub\BEM-Egitim\ECommerce\ECommerce.WebUI\obj\Debug\net5.0\Razor\Views\Admin\CreateProduct.cshtml.g.cs
+C:\Users\ever_\OneDrive\Belgeler\GitHub\BEM-Egitim\ECommerce\ECommerce.WebUI\obj\Debug\net5.0\Razor\Views\Admin\EditProduct.cshtml.g.cs
+C:\Users\ever_\OneDrive\Belgeler\GitHub\BEM-Egitim\ECommerce\ECommerce.WebUI\obj\Debug\net5.0\Razor\Views\Admin\CategoryList.cshtml.g.cs

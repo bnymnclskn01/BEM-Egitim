@@ -1,0 +1,84 @@
+﻿@using ECommerce.EntityLayer.Model;
+@model ProductModel
+@{
+    ViewData["Title"] = "Update New Product";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var counter = 0;
+}
+<div class="row">
+    <div class="col-12">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="header-title">Update New Product</h4>
+
+                <div class="row">
+                    <div class="col-lg-12">
+                        <form asp-controller="Admin" asp-action="EditProduct" method="post" enctype="multipart/form-data">
+                            <input type="hidden" name="Id" value="@Model.Id" />
+                            <div class="mb-3">
+                                <label asp-for="Name" class="col-md-12 col-form-label"></label>
+                                <input asp-for="Name" value="@Model.Name" class="form-control" />
+                                <span asp-validation-for="Name" class="text-danger"></span>
+                            </div>
+
+                            <div class="mb-3">
+                                <label asp-for="Description" class="col-md-12 col-form-label"></label>
+                                <textarea asp-for="Description" class="form-control" rows="8">@Model.Description</textarea>
+                                <span asp-validation-for="Description" class="text-danger"></span>
+                            </div>
+
+                            <div class="mb-3">
+                                <label asp-for="Price" class="col-md-12 col-form-label"></label>
+                                <input asp-for="Price" value="@Model.Price" class="form-control" />
+                                <span asp-validation-for="Price" class="text-danger"></span>
+                            </div>
+
+                            <div class="mb-3">
+                                <label asp-for="ImageUrl" class="col-md-12 col-form-label"></label>
+                                <input type="hidden" name="ImageUrl" value="@Model.ImageUrl" />
+                                <img src="/img/@Model.ImageUrl" width="50" />
+                                <input type="file" name="File" class="form-control" value="" />
+                            </div>
+
+                            <div class="mb-3">
+                                @foreach (var item in (List<Category>)ViewBag.Categories)
+                                {
+                                    var isChecked = "";
+                                    if (Model.SelectedCategories.Any(i => i.ID == item.ID))
+                                    {
+                                        isChecked = "checked";
+
+                                        <input type="hidden" name="SelectedCategories[@counter].ID" value="@item.ID" />
+                                        <input type="hidden" name="SelectedCategories[@counter].Name" value="@item.Name" />
+
+                                        counter++;
+                                    }
+                                    else
+                                    {
+                                        isChecked = "";
+                                    }
+
+                                     <input type="checkbox"
+                                         name="categoryIds"
+                                         value="@item.ID"
+                                          class="custom-control-input"
+                                          id="category@(item.ID)"
+                                          @isChecked>
+                                     <label class="custom-control-label" for="category@(item.ID)">@item.Name</label>
+                                }
+                            </div>
+
+                            <div class="mb-3">
+                                <button type="submit" class="btn btn-outline-primary"><i class="fa fa-edit"></i> Update Product</button>
+                                <a asp-controller="Admin" asp-action="ProductList" class="btn btn-outline-dark"><i class="fa fa-reply-all"></i> Back To List</a>
+                            </div>
+                        </form>
+                    </div> <!-- end col -->
+                </div>
+                <!-- end row-->
+
+            </div> <!-- end card-body -->
+        </div> <!-- end card -->
+    </div><!-- end col -->
+</div>
+<!-- end row -->

@@ -1,0 +1,55 @@
+﻿@model ProductListModel
+@{
+    ViewData["Title"] = "Product List";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="row">
+    <div class="col-12">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="mt-0 header-title">Product List</h4>
+                <a href="/Admin/CreateProduct" class="btn btn-outline-success"><i class="fa fa-check"></i> Add New Product</a>
+
+                @if (Model.Products.Count() > 0)
+                {
+                    <table id="datatable-buttons" class="table table-striped table-bordered dt-responsive nowrap">
+                        <thead>
+                            <tr>
+                                <th>Name</th>
+                                <th>Image</th>
+                                <th>Price</th>
+                                <th></th>
+                            </tr>
+                        </thead>
+
+
+                        <tbody>
+                            @foreach (var item in Model.Products)
+                            {
+                                <tr>
+                                <td>@item.Name</td>
+                                <td><img src="/img/@item.ImageUrl"  width="50"/></td>
+                                <td>$@item.Price</td>
+                                <td>
+                                    <a class="btn btn-outline-primary" href="/Admin/EditProduct/@item.ID"><i class="fa fa-edit"></i></a>
+                                    <form action="/Admin/DeleteProduct" method="post" style="display:inline;">
+                                         <input type="hidden" name="productId" value="@item.ID">
+                                         <button type="submit" class="btn btn-outline-danger"><i class="fa fa-trash"></i></button>
+                                    </form>
+                                </td>
+                            </tr>
+                            }
+                        </tbody>
+                    </table>
+                }
+                else
+                {
+                    <hr />
+                    <p class="alert alert-danger">No data yet so we can't show anything</p>
+                }
+            </div>
+        </div>
+
+    </div>
+</div>
+<!-- end row -->

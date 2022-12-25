@@ -14,6 +14,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Identity.UI.Services;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Routing;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
@@ -39,6 +40,7 @@ namespace ECommerce.WebUI
                 .AddDefaultTokenProviders();
             services.Configure<IdentityOptions>(options =>
             {
+
                 options.Password.RequireDigit = true;
                 options.Password.RequireLowercase = true;
                 options.Password.RequireUppercase = true;
@@ -85,6 +87,7 @@ namespace ECommerce.WebUI
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
+        [Obsolete]
         public void Configure(IApplicationBuilder app, IHostingEnvironment env, UserManager<ApplicationUser> userManager, RoleManager<IdentityRole> roleManager)
         {
             if (env.IsDevelopment())
@@ -101,46 +104,16 @@ namespace ECommerce.WebUI
             app.UseStaticFiles();
 
             app.UseRouting();
-
+            
             app.UseAuthorization();
             app.UseAuthentication();
             app.UseStaticFiles();
-            app.UseMvc(routes =>
+            app.UseEndpoints(endpoints =>
             {
-                routes.MapRoute(
-                    name: "adminProducts",
-                    template: "Admin/ProductList",
-                    defaults: new { controller = "Admin", action = "ProductList" });
-                
-                routes.MapRoute(
-                    name: "adminProductsEdit",
-                    template: "admin/EditProducts/{id}",
-                    defaults: new { controller = "Admin", action = "EditProduct" });
-
-                routes.MapRoute(
-                    name: "adminProductsCreate",
-                    template: "Admin/CreateProduct",
-                    defaults: new { controller = "Admin", action = "CreateProduct" });
-
-                routes.MapRoute(
-                    name: "adminCategoryDelete",
-                    template: "Admin/DeleteFromCategory/{id}",
-                    defaults: new { controller = "Admin", action = "DeleteFromCategory" });
-
-                routes.MapRoute(
-                    name: "adminProductsDelete",
-                    template: "Admin/DeleteProduct/{id}",
-                    defaults: new { controller = "Admin", action = "DeleteProduct" });
-
-                routes.MapRoute(
-                    name: "adminProductsEdit",
-                    template: "admin/CreateProduct",
-                    defaults: new { controller = "Admin", action = "CreateProduct" });
-
-                routes.MapRoute(
-                    name: "defaults",
-                    template: "Home/Index",
-                    defaults: new { controller = "Home", action = "Index" });
+                endpoints.MapControllers();
+                endpoints.MapControllerRoute(
+                    name: "default",
+                    pattern: "{controller=Home}/{action=Index}/{id?}");
             });
 
             //SeedIdentity.Seed(userManager,roleManager,Configuration).Wait();
