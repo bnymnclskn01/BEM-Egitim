@@ -1,0 +1,16 @@
+C:\Users\ever_\OneDrive\Belgeler\GitHub\BEM-Egitim\Interface\Interface\bin\Debug\net5.0\Interface.exe
+C:\Users\ever_\OneDrive\Belgeler\GitHub\BEM-Egitim\Interface\Interface\bin\Debug\net5.0\Interface.deps.json
+C:\Users\ever_\OneDrive\Belgeler\GitHub\BEM-Egitim\Interface\Interface\bin\Debug\net5.0\Interface.runtimeconfig.json
+C:\Users\ever_\OneDrive\Belgeler\GitHub\BEM-Egitim\Interface\Interface\bin\Debug\net5.0\Interface.runtimeconfig.dev.json
+C:\Users\ever_\OneDrive\Belgeler\GitHub\BEM-Egitim\Interface\Interface\bin\Debug\net5.0\Interface.dll
+C:\Users\ever_\OneDrive\Belgeler\GitHub\BEM-Egitim\Interface\Interface\bin\Debug\net5.0\Interface.pdb
+C:\Users\ever_\OneDrive\Belgeler\GitHub\BEM-Egitim\Interface\Interface\obj\Debug\net5.0\Interface.csproj.AssemblyReference.cache
+C:\Users\ever_\OneDrive\Belgeler\GitHub\BEM-Egitim\Interface\Interface\obj\Debug\net5.0\Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ever_\OneDrive\Belgeler\GitHub\BEM-Egitim\Interface\Interface\obj\Debug\net5.0\Interface.AssemblyInfoInputs.cache
+C:\Users\ever_\OneDrive\Belgeler\GitHub\BEM-Egitim\Interface\Interface\obj\Debug\net5.0\Interface.AssemblyInfo.cs
+C:\Users\ever_\OneDrive\Belgeler\GitHub\BEM-Egitim\Interface\Interface\obj\Debug\net5.0\Interface.csproj.CoreCompileInputs.cache
+C:\Users\ever_\OneDrive\Belgeler\GitHub\BEM-Egitim\Interface\Interface\obj\Debug\net5.0\Interface.dll
+C:\Users\ever_\OneDrive\Belgeler\GitHub\BEM-Egitim\Interface\Interface\obj\Debug\net5.0\refint\Interface.dll
+C:\Users\ever_\OneDrive\Belgeler\GitHub\BEM-Egitim\Interface\Interface\obj\Debug\net5.0\Interface.pdb
+C:\Users\ever_\OneDrive\Belgeler\GitHub\BEM-Egitim\Interface\Interface\obj\Debug\net5.0\Interface.genruntimeconfig.cache
+C:\Users\ever_\OneDrive\Belgeler\GitHub\BEM-Egitim\Interface\Interface\obj\Debug\net5.0\ref\Interface.dll

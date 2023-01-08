@@ -1,0 +1,15 @@
+C:\Users\ever_\OneDrive\Belgeler\GitHub\BEM-Egitim\Api\Api.EntityLayer\bin\Debug\net5.0\Api.EntityLayer.deps.json
+C:\Users\ever_\OneDrive\Belgeler\GitHub\BEM-Egitim\Api\Api.EntityLayer\bin\Debug\net5.0\Api.EntityLayer.runtimeconfig.json
+C:\Users\ever_\OneDrive\Belgeler\GitHub\BEM-Egitim\Api\Api.EntityLayer\bin\Debug\net5.0\Api.EntityLayer.runtimeconfig.dev.json
+C:\Users\ever_\OneDrive\Belgeler\GitHub\BEM-Egitim\Api\Api.EntityLayer\bin\Debug\net5.0\Api.EntityLayer.dll
+C:\Users\ever_\OneDrive\Belgeler\GitHub\BEM-Egitim\Api\Api.EntityLayer\bin\Debug\net5.0\Api.EntityLayer.pdb
+C:\Users\ever_\OneDrive\Belgeler\GitHub\BEM-Egitim\Api\Api.EntityLayer\obj\Debug\net5.0\Api.EntityLayer.csproj.AssemblyReference.cache
+C:\Users\ever_\OneDrive\Belgeler\GitHub\BEM-Egitim\Api\Api.EntityLayer\obj\Debug\net5.0\Api.EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ever_\OneDrive\Belgeler\GitHub\BEM-Egitim\Api\Api.EntityLayer\obj\Debug\net5.0\Api.EntityLayer.AssemblyInfoInputs.cache
+C:\Users\ever_\OneDrive\Belgeler\GitHub\BEM-Egitim\Api\Api.EntityLayer\obj\Debug\net5.0\Api.EntityLayer.AssemblyInfo.cs
+C:\Users\ever_\OneDrive\Belgeler\GitHub\BEM-Egitim\Api\Api.EntityLayer\obj\Debug\net5.0\Api.EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\ever_\OneDrive\Belgeler\GitHub\BEM-Egitim\Api\Api.EntityLayer\obj\Debug\net5.0\Api.EntityLayer.dll
+C:\Users\ever_\OneDrive\Belgeler\GitHub\BEM-Egitim\Api\Api.EntityLayer\obj\Debug\net5.0\refint\Api.EntityLayer.dll
+C:\Users\ever_\OneDrive\Belgeler\GitHub\BEM-Egitim\Api\Api.EntityLayer\obj\Debug\net5.0\Api.EntityLayer.pdb
+C:\Users\ever_\OneDrive\Belgeler\GitHub\BEM-Egitim\Api\Api.EntityLayer\obj\Debug\net5.0\Api.EntityLayer.genruntimeconfig.cache
+C:\Users\ever_\OneDrive\Belgeler\GitHub\BEM-Egitim\Api\Api.EntityLayer\obj\Debug\net5.0\ref\Api.EntityLayer.dll
